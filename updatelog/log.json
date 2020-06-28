@@ -1,9 +1,5 @@
 [
   {
-    "update": "121 new cases in Bihar\n567 recoveries in Assam\n20 new cases and 3 recoveries in Himachal Pradesh\n1 new case in Chandigarh\n",
-    "timestamp": 1593275090
-  },
-  {
     "update": "45 new cases and 77 recoveries in Jharkhand\n8 new cases in Tripura\n",
     "timestamp": 1593275674
   },
@@ -198,5 +194,9 @@
   {
     "update": "327 new cases in Assam\n",
     "timestamp": 1593369278
+  },
+  {
+    "update": "1 new case in Sikkim\n",
+    "timestamp": 1593371255
   }
 ]

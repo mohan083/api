@@ -7065,8 +7065,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -20,
-        "confirmed": 0,
+        "active": -19,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 20,
         "delta": {

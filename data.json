@@ -1349,17 +1349,26 @@
 			"totalconfirmed": "529590",
 			"totaldeceased": "16104",
 			"totalrecovered": "310147"
+		},
+		{
+			"dailyconfirmed": "19610",
+			"dailydeceased": "384",
+			"dailyrecovered": "11628",
+			"date": "28 June ",
+			"totalconfirmed": "549200",
+			"totaldeceased": "16488",
+			"totalrecovered": "321775"
 		}
 	],
 	"statewise": [
 		{
-			"active": "210879",
-			"confirmed": "549196",
+			"active": "210880",
+			"confirmed": "549197",
 			"deaths": "16487",
-			"deltaconfirmed": "19609",
+			"deltaconfirmed": "19610",
 			"deltadeaths": "384",
 			"deltarecovered": "11628",
-			"lastupdatedtime": "29/06/2020 00:15:13",
+			"lastupdatedtime": "29/06/2020 00:36:15",
 			"migratedother": "56",
 			"recovered": "321774",
 			"state": "Total",
@@ -1815,13 +1824,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "38",
-			"confirmed": "87",
+			"active": "39",
+			"confirmed": "88",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "27/06/2020 23:32:18",
+			"lastupdatedtime": "29/06/2020 00:36:24",
 			"migratedother": "0",
 			"recovered": "49",
 			"state": "Sikkim",

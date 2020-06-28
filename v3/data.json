@@ -7931,6 +7931,7 @@
   },
   "SK": {
     "delta": {
+      "confirmed": 1,
       "tested": 145
     },
     "districts": {
@@ -7952,7 +7953,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
+          "confirmed": 1,
           "recovered": 20
         }
       },
@@ -7964,14 +7969,14 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T23:32:18+05:30",
+      "last_updated": "2020-06-29T00:36:24+05:30",
       "population": 664000,
       "tested": {
         "last_updated": "2020-06-28"
       }
     },
     "total": {
-      "confirmed": 87,
+      "confirmed": 88,
       "recovered": 49,
       "tested": 10364
     }
@@ -9176,12 +9181,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 19609,
+      "confirmed": 19610,
       "deceased": 384,
       "recovered": 11628
     },
     "meta": {
-      "last_updated": "2020-06-29T00:15:13+05:30",
+      "last_updated": "2020-06-29T00:36:15+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -9189,7 +9194,7 @@
       }
     },
     "total": {
-      "confirmed": 549196,
+      "confirmed": 549197,
       "deceased": 16487,
       "migrated": 56,
       "recovered": 321774,

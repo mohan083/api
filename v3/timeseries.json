@@ -25542,11 +25542,14 @@
       }
     },
     "2020-06-28": {
+      "delta": {
+        "tested": 7795
+      },
       "total": {
         "confirmed": 12965,
         "deceased": 550,
         "recovered": 9971,
-        "tested": 337041
+        "tested": 344836
       }
     }
   },

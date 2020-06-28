@@ -4727,7 +4727,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T19:52:15+05:30",
+      "last_updated": "2020-06-28T19:55:17+05:30",
       "population": 3103000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -4741,6 +4741,9 @@
     }
   },
   "MP": {
+    "delta": {
+      "tested": 7795
+    },
     "districts": {
       "Agar Malwa": {
         "total": {
@@ -5398,15 +5401,14 @@
       "last_updated": "2020-06-27T20:25:16+05:30",
       "population": 82232000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://twitter.com/healthminmp/status/1276884983940964352?s=20"
+        "last_updated": "2020-06-28"
       }
     },
     "total": {
       "confirmed": 12965,
       "deceased": 550,
       "recovered": 9971,
-      "tested": 337041
+      "tested": 344836
     }
   },
   "MZ": {
@@ -8239,7 +8241,7 @@
       "recovered": 9247
     },
     "meta": {
-      "last_updated": "2020-06-28T19:52:13+05:30",
+      "last_updated": "2020-06-28T19:55:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",

@@ -1,9 +1,5 @@
 [
   {
-    "update": "14 new cases and 87 recoveries in Ladakh\n",
-    "timestamp": 1593261907
-  },
-  {
     "update": "521 new cases, 254 recoveries and 13 deaths in West Bengal\n",
     "timestamp": 1593262533
   },
@@ -198,5 +194,9 @@
   {
     "update": "5493 new cases, 2330 recoveries and 156 deaths in Maharashtra\n",
     "timestamp": 1593353337
+  },
+  {
+    "update": "93 new cases and 23 recoveries in Manipur\n",
+    "timestamp": 1593353679
   }
 ]

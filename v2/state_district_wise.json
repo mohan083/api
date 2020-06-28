@@ -5169,12 +5169,12 @@
       {
         "district": "Churachandpur",
         "notes": "",
-        "active": 64,
-        "confirmed": 119,
+        "active": 74,
+        "confirmed": 129,
         "deceased": 0,
         "recovered": 55,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -5182,12 +5182,12 @@
       {
         "district": "Imphal East",
         "notes": "",
-        "active": 20,
-        "confirmed": 36,
+        "active": 22,
+        "confirmed": 38,
         "deceased": 0,
         "recovered": 16,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -5195,12 +5195,12 @@
       {
         "district": "Imphal West",
         "notes": "",
-        "active": 36,
-        "confirmed": 88,
+        "active": 37,
+        "confirmed": 89,
         "deceased": 0,
         "recovered": 52,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -5221,12 +5221,12 @@
       {
         "district": "Kakching",
         "notes": "",
-        "active": 49,
-        "confirmed": 74,
+        "active": 62,
+        "confirmed": 87,
         "deceased": 0,
         "recovered": 25,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
@@ -5234,12 +5234,12 @@
       {
         "district": "Kamjong",
         "notes": "",
-        "active": 41,
-        "confirmed": 58,
+        "active": 62,
+        "confirmed": 79,
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 21,
           "deceased": 0,
           "recovered": 0
         }
@@ -5260,12 +5260,12 @@
       {
         "district": "Noney",
         "notes": "",
-        "active": 6,
-        "confirmed": 23,
+        "active": 7,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -5286,12 +5286,12 @@
       {
         "district": "Senapati",
         "notes": "",
-        "active": 81,
-        "confirmed": 91,
+        "active": 87,
+        "confirmed": 97,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -5299,12 +5299,12 @@
       {
         "district": "Tamenglong",
         "notes": "",
-        "active": 137,
-        "confirmed": 162,
+        "active": 151,
+        "confirmed": 176,
         "deceased": 0,
         "recovered": 25,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -5338,12 +5338,12 @@
       {
         "district": "Ukhrul",
         "notes": "",
-        "active": 103,
-        "confirmed": 120,
+        "active": 128,
+        "confirmed": 145,
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 25,
           "deceased": 0,
           "recovered": 0
         }
@@ -5351,10 +5351,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -78,
+        "active": -101,
         "confirmed": 0,
         "deceased": 0,
-        "recovered": 78,
+        "recovered": 101,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

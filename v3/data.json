@@ -3828,7 +3828,8 @@
   "KL": {
     "delta": {
       "confirmed": 118,
-      "recovered": 42
+      "recovered": 42,
+      "tested": 5578
     },
     "districts": {
       "Alappuzha": {
@@ -4010,8 +4011,7 @@
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-27.pdf"
+        "last_updated": "2020-06-28"
       }
     },
     "total": {
@@ -4019,7 +4019,7 @@
       "deceased": 23,
       "migrated": 2,
       "recovered": 2150,
-      "tested": 215243
+      "tested": 220821
     }
   },
   "LA": {
@@ -4475,7 +4475,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T19:37:21+05:30",
+      "last_updated": "2020-06-28T19:42:15+05:30",
       "notes": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -4576,6 +4576,10 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 93,
+      "recovered": 23
+    },
     "districts": {
       "Bishnupur": {
         "meta": {
@@ -4593,26 +4597,35 @@
         }
       },
       "Churachandpur": {
+        "delta": {
+          "confirmed": 10
+        },
         "meta": {
           "population": 274143
         },
         "total": {
-          "confirmed": 119,
+          "confirmed": 129,
           "recovered": 55
         }
       },
       "Imphal East": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 36,
+          "confirmed": 38,
           "recovered": 16
         }
       },
       "Imphal West": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 517992
         },
         "total": {
-          "confirmed": 88,
+          "confirmed": 89,
           "recovered": 52
         }
       },
@@ -4623,14 +4636,20 @@
         }
       },
       "Kakching": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
-          "confirmed": 74,
+          "confirmed": 87,
           "recovered": 25
         }
       },
       "Kamjong": {
+        "delta": {
+          "confirmed": 21
+        },
         "total": {
-          "confirmed": 58,
+          "confirmed": 79,
           "recovered": 17
         }
       },
@@ -4641,8 +4660,11 @@
         }
       },
       "Noney": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 23,
+          "confirmed": 24,
           "recovered": 17
         }
       },
@@ -4653,14 +4675,20 @@
         }
       },
       "Senapati": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 91,
+          "confirmed": 97,
           "recovered": 10
         }
       },
       "Tamenglong": {
+        "delta": {
+          "confirmed": 14
+        },
         "total": {
-          "confirmed": 162,
+          "confirmed": 176,
           "recovered": 25
         }
       },
@@ -4680,19 +4708,25 @@
         }
       },
       "Ukhrul": {
+        "delta": {
+          "confirmed": 25
+        },
         "total": {
-          "confirmed": 120,
+          "confirmed": 145,
           "recovered": 17
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 23
+        },
         "total": {
-          "recovered": 78
+          "recovered": 101
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T19:52:26+05:30",
+      "last_updated": "2020-06-28T19:43:15+05:30",
       "population": 3103000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -4700,8 +4734,8 @@
       }
     },
     "total": {
-      "confirmed": 1092,
-      "recovered": 432,
+      "confirmed": 1185,
+      "recovered": 455,
       "tested": 48220
     }
   },
@@ -8199,12 +8233,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 14935,
+      "confirmed": 15028,
       "deceased": 321,
-      "recovered": 9224
+      "recovered": 9247
     },
     "meta": {
-      "last_updated": "2020-06-28T19:37:16+05:30",
+      "last_updated": "2020-06-28T19:43:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -8212,10 +8246,10 @@
       }
     },
     "total": {
-      "confirmed": 544522,
+      "confirmed": 544615,
       "deceased": 16424,
       "migrated": 56,
-      "recovered": 319370,
+      "recovered": 319393,
       "tested": 8227802
     }
   },

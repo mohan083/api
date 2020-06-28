@@ -17451,8 +17451,8 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 89526,,28/06/2020,,,,Thane,Maharashtra,MH,26,Deceased,,,https://t.me/indiacovid/8674,,,,,,118891
 89527,,28/06/2020,,,,Yavatmal,Maharashtra,MH,1,Deceased,,,https://t.me/indiacovid/8674,,,,,,118892
 89528,,28/06/2020,,,,Unknown,Maharashtra,MH,-156,Deceased,,,https://t.me/indiacovid/8674,,,,,,118893
-89529,,28/06/2020,,,,,Goa,GA,70,Hospitalized,,,,,,,,,118894
-89530,,28/06/2020,,,,,Goa,GA,58,Recovered,,,,,,,,,118895
+89529,,28/06/2020,,,,,Goa,GA,70,Hospitalized,,,https://twitter.com/DHS_Goa/status/1277249721753415680?s=19,,,,,,118894
+89530,,28/06/2020,,,,,Goa,GA,58,Recovered,,,https://twitter.com/DHS_Goa/status/1277249721753415680?s=19,,,,,,118895
 89531,,28/06/2020,,,,Ahmednagar,Maharashtra,MH,61,Hospitalized,,,https://t.me/indiacovid/8674,,,,,,118896
 89532,,28/06/2020,,,,Akola,Maharashtra,MH,78,Hospitalized,,,https://t.me/indiacovid/8674,,,,,,118897
 89533,,28/06/2020,,,,Amravati,Maharashtra,MH,22,Hospitalized,,,https://t.me/indiacovid/8674,,,,,,118898
@@ -17463,34 +17463,34 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 89538,,28/06/2020,,,,Dhule,Maharashtra,MH,27,Hospitalized,,,https://t.me/indiacovid/8674,,,,,,118903
 89539,,28/06/2020,,,,Gadchiroli,Maharashtra,MH,1,Hospitalized,,,https://t.me/indiacovid/8674,,,,,,118904
 89540,,28/06/2020,,,,,Maharashtra,MH,-455,Hospitalized,,,https://t.me/indiacovid/8674,,,,,,118905
-89541,,28/06/2020,,,,Srinagar,,,31,Hospitalized,,,,,,,,,118906
-89542,,28/06/2020,,,,Baramulla,,,6,Hospitalized,,,,,,,,,118907
-89543,,28/06/2020,,,,Kulgam,,,7,Hospitalized,,,,,,,,,118908
-89544,,28/06/2020,,,,Shopiyan,,,2,Hospitalized,,,,,,,,,118909
-89545,,28/06/2020,,,,Anantnag,,,2,Hospitalized,,,,,,,,,118910
-89546,,28/06/2020,,,,Kupwara,,,16,Hospitalized,,,,,,,,,118911
-89547,,28/06/2020,,,,Pulwama,,,11,Hospitalized,,,,,,,,,118912
-89548,,28/06/2020,,,,Budgam,,,22,Hospitalized,,,,,,,,,118913
-89549,,28/06/2020,,,,Bandipora,,,1,Hospitalized,,,,,,,,,118914
-89550,,28/06/2020,,,,Ganderbal,,,4,Hospitalized,,,,,,,,,118915
-89551,,28/06/2020,,,,Jammu,,,8,Hospitalized,,,,,,,,,118916
-89552,,28/06/2020,,,,Udhampur,,,10,Hospitalized,,,,,,,,,118917
-89553,,28/06/2020,,,,Ramban,,,1,Hospitalized,,,,,,,,,118918
-89554,,28/06/2020,,,,Kathua,,,3,Hospitalized,,,,,,,,,118919
-89555,,28/06/2020,,,,Punch,,,1,Hospitalized,,,,,,,,,118920
-89556,,28/06/2020,,,,Doda,,,2,Hospitalized,,,,,,,,,118921
-89557,,28/06/2020,,,,Srinagar,,,12,Recovered,,,,,,,,,118922
-89558,,28/06/2020,,,,Anantnag,,,6,Recovered,,,,,,,,,118923
-89559,,28/06/2020,,,,Pulwama,,,19,Recovered,,,,,,,,,118924
-89560,,28/06/2020,,,,Budgam,,,23,Recovered,,,,,,,,,118925
-89561,,28/06/2020,,,,Jammu,,,9,Recovered,,,,,,,,,118926
-89562,,28/06/2020,,,,Udhampur,,,8,Recovered,,,,,,,,,118927
-89563,,28/06/2020,,,,Samba,,,3,Recovered,,,,,,,,,118928
-89564,,28/06/2020,,,,Punch,,,3,Recovered,,,,,,,,,118929
-89565,,28/06/2020,,,,,,,1,Deceased,,,,,,,,,118930
-89566,,28/06/2020,,,,,,,,,,,,,,,,,118931
-89567,,28/06/2020,,,,,,,,,,,,,,,,,118932
-89568,,28/06/2020,,,,,,,,,,,,,,,,,118933
+89541,,28/06/2020,,,,Srinagar,Jammu and Kashmir,JK,31,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118906
+89542,,28/06/2020,,,,Baramulla,Jammu and Kashmir,JK,6,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118907
+89543,,28/06/2020,,,,Kulgam,Jammu and Kashmir,JK,7,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118908
+89544,,28/06/2020,,,,Shopiyan,Jammu and Kashmir,JK,2,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118909
+89545,,28/06/2020,,,,Anantnag,Jammu and Kashmir,JK,2,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118910
+89546,,28/06/2020,,,,Kupwara,Jammu and Kashmir,JK,16,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118911
+89547,,28/06/2020,,,,Pulwama,Jammu and Kashmir,JK,11,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118912
+89548,,28/06/2020,,,,Budgam,Jammu and Kashmir,JK,22,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118913
+89549,,28/06/2020,,,,Bandipora,Jammu and Kashmir,JK,1,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118914
+89550,,28/06/2020,,,,Ganderbal,Jammu and Kashmir,JK,4,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118915
+89551,,28/06/2020,,,,Jammu,Jammu and Kashmir,JK,8,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118916
+89552,,28/06/2020,,,,Udhampur,Jammu and Kashmir,JK,10,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118917
+89553,,28/06/2020,,,,Ramban,Jammu and Kashmir,JK,1,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118918
+89554,,28/06/2020,,,,Kathua,Jammu and Kashmir,JK,3,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118919
+89555,,28/06/2020,,,,Punch,Jammu and Kashmir,JK,1,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118920
+89556,,28/06/2020,,,,Doda,Jammu and Kashmir,JK,2,Hospitalized,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118921
+89557,,28/06/2020,,,,Srinagar,Jammu and Kashmir,JK,12,Recovered,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118922
+89558,,28/06/2020,,,,Anantnag,Jammu and Kashmir,JK,6,Recovered,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118923
+89559,,28/06/2020,,,,Pulwama,Jammu and Kashmir,JK,19,Recovered,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118924
+89560,,28/06/2020,,,,Budgam,Jammu and Kashmir,JK,23,Recovered,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118925
+89561,,28/06/2020,,,,Jammu,Jammu and Kashmir,JK,8,Recovered,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118926
+89562,,28/06/2020,,,,Udhampur,Jammu and Kashmir,JK,9,Recovered,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118927
+89563,,28/06/2020,,,,Samba,Jammu and Kashmir,JK,8,Recovered,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118928
+89564,,28/06/2020,,,,Punch,Jammu and Kashmir,JK,3,Recovered,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118929
+89565,,28/06/2020,,,,Doda,Jammu and Kashmir,JK,3,Recovered,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118930
+89566,,28/06/2020,,,,Kulgam,Jammu and Kashmir,JK,1,Deceased,,,https://twitter.com/diprjk/status/1277245162230411265?s=19,,,,,,118931
+89567,,28/06/2020,31,,,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://t.me/indiacovid/8702,,,,,,118932
+89568,,28/06/2020,,,,Chandigarh,Chandigarh,CH,1,Hospitalized,,,https://t.me/indiacovid/8702,,,,,,118933
 89569,,28/06/2020,,,,,,,,,,,,,,,,,118934
 89570,,28/06/2020,,,,,,,,,,,,,,,,,118935
 89571,,28/06/2020,,,,,,,,,,,,,,,,,118936

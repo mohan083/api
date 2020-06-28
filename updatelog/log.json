@@ -1,9 +1,5 @@
 [
   {
-    "update": "2948 new cases, 2210 recoveries and 66 deaths in Delhi\n",
-    "timestamp": 1593265483
-  },
-  {
     "update": "66 new cases and 87 recoveries in Uttarakhand\n",
     "timestamp": 1593266063
   },
@@ -198,5 +194,9 @@
   {
     "update": "455 new cases in Maharashtra\n",
     "timestamp": 1593356158
+  },
+  {
+    "update": "127 new cases, 91 recoveries and 1 death in Jammu and Kashmir\n2 new cases in Chandigarh\n",
+    "timestamp": 1593357251
   }
 ]

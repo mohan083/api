@@ -1353,15 +1353,15 @@
 	],
 	"statewise": [
 		{
-			"active": "210635",
-			"confirmed": "548817",
+			"active": "210550",
+			"confirmed": "548857",
 			"deaths": "16485",
-			"deltaconfirmed": "19230",
+			"deltaconfirmed": "19270",
 			"deltadeaths": "382",
-			"deltarecovered": "11495",
-			"lastupdatedtime": "28/06/2020 21:55:13",
+			"deltarecovered": "11620",
+			"lastupdatedtime": "28/06/2020 22:13:13",
 			"migratedother": "56",
-			"recovered": "321641",
+			"recovered": "321766",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1647,15 +1647,15 @@
 			"statenotes": "18 Migrated cases reduced from Active count"
 		},
 		{
-			"active": "704",
-			"confirmed": "2654",
+			"active": "619",
+			"confirmed": "2694",
 			"deaths": "13",
-			"deltaconfirmed": "44",
+			"deltaconfirmed": "84",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "28/06/2020 15:02:17",
+			"deltarecovered": "125",
+			"lastupdatedtime": "28/06/2020 22:13:17",
 			"migratedother": "0",
-			"recovered": "1937",
+			"recovered": "2062",
 			"state": "Chhattisgarh",
 			"statecode": "CT",
 			"statenotes": ""

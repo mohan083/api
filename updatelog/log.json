@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Mizoram\n3 new cases and 5 recoveries in Arunachal Pradesh\n",
-    "timestamp": 1593272723
-  },
-  {
     "update": "157 new cases, 212 recoveries and 2 deaths in Rajasthan\n",
     "timestamp": 1593273330
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recovery in Tripura\n",
     "timestamp": 1593366874
+  },
+  {
+    "update": "7 recoveries in Tripura\n",
+    "timestamp": 1593367654
   }
 ]

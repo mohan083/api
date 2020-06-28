@@ -5113,11 +5113,11 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "60",
-			"confirmed": "78",
+			"active": "87",
+			"confirmed": "105",
 			"deceased": "4",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "27",
+			"deltaconfirmed": "27",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Bengaluru Rural",
@@ -14005,8 +14005,8 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "28",
-			"confirmed": "28",
+			"active": "1",
+			"confirmed": "1",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -14311,7 +14311,7 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "0",
+			"active": "-7",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -14323,7 +14323,7 @@
 			"districtnotes": "",
 			"lastupdated": "",
 			"migratedother": "0",
-			"recovered": "0",
+			"recovered": "7",
 			"slno": "761",
 			"state": "Tripura",
 			"statecode": "TR"

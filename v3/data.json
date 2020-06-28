@@ -718,6 +718,7 @@
   },
   "AS": {
     "delta": {
+      "confirmed": 327,
       "deceased": 1,
       "recovered": 274,
       "tested": 10780
@@ -963,10 +964,11 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 327,
           "recovered": 274
         },
         "total": {
-          "confirmed": 2914,
+          "confirmed": 3241,
           "deceased": 5,
           "migrated": 3,
           "recovered": 4173
@@ -979,7 +981,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T22:37:15+05:30",
+      "last_updated": "2020-06-29T00:03:17+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -988,7 +990,7 @@
       }
     },
     "total": {
-      "confirmed": 7166,
+      "confirmed": 7493,
       "deceased": 11,
       "migrated": 3,
       "recovered": 5089,
@@ -4068,19 +4070,20 @@
         "delta": {
           "confirmed": 34,
           "deceased": 1,
-          "recovered": 50
+          "recovered": 50,
+          "tested": 1713
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://t.me/Karnataka_KoViD19_Broadcast/4480"
+            "last_updated": "2020-06-28",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/726"
           }
         },
         "total": {
           "confirmed": 1398,
           "deceased": 18,
           "recovered": 1009,
-          "tested": 58229
+          "tested": 59942
         }
       },
       "Kodagu": {
@@ -9162,12 +9165,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 19282,
+      "confirmed": 19609,
       "deceased": 384,
       "recovered": 11628
     },
     "meta": {
-      "last_updated": "2020-06-28T23:53:13+05:30",
+      "last_updated": "2020-06-29T00:03:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -9175,7 +9178,7 @@
       }
     },
     "total": {
-      "confirmed": 548869,
+      "confirmed": 549196,
       "deceased": 16487,
       "migrated": 56,
       "recovered": 321774,

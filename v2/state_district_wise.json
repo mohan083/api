@@ -1070,8 +1070,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -1267,
-        "confirmed": 2914,
+        "active": -940,
+        "confirmed": 3241,
         "deceased": 5,
         "recovered": 4173,
         "delta": {

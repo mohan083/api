@@ -1,9 +1,5 @@
 [
   {
-    "update": "99 new cases, 119 recoveries and 6 deaths in Punjab\n",
-    "timestamp": 1593274042
-  },
-  {
     "update": "121 new cases in Bihar\n567 recoveries in Assam\n20 new cases and 3 recoveries in Himachal Pradesh\n1 new case in Chandigarh\n",
     "timestamp": 1593275090
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Goa\n",
     "timestamp": 1593368103
+  },
+  {
+    "update": "327 new cases in Assam\n",
+    "timestamp": 1593369278
   }
 ]

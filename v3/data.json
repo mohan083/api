@@ -1,8 +1,8 @@
 {
   "AN": {
     "delta": {
-      "confirmed": 4,
-      "recovered": 1
+      "confirmed": 11,
+      "recovered": 2
     },
     "districts": {
       "North and Middle Andaman": {
@@ -22,17 +22,17 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 4,
-          "recovered": 1
+          "confirmed": 11,
+          "recovered": 2
         },
         "total": {
-          "confirmed": 40,
-          "recovered": 11
+          "confirmed": 47,
+          "recovered": 12
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T15:54:16+05:30",
+      "last_updated": "2020-06-28T20:53:21+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-06-26",
@@ -40,8 +40,8 @@
       }
     },
     "total": {
-      "confirmed": 76,
-      "recovered": 44,
+      "confirmed": 83,
+      "recovered": 45,
       "tested": 14583
     }
   },
@@ -1443,7 +1443,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T20:43:19+05:30",
+      "last_updated": "2020-06-28T20:53:19+05:30",
       "population": 1179000,
       "tested": {
         "last_updated": "2020-06-28"
@@ -3219,7 +3219,8 @@
     "delta": {
       "confirmed": 127,
       "deceased": 1,
-      "recovered": 91
+      "recovered": 91,
+      "tested": 6439
     },
     "districts": {
       "Anantnag": {
@@ -3439,25 +3440,25 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T20:43:17+05:30",
+      "last_updated": "2020-06-28T20:53:16+05:30",
       "population": 13203000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://twitter.com/diprjk/status/1276881071766822915?s=20"
+        "last_updated": "2020-06-28"
       }
     },
     "total": {
       "confirmed": 7093,
       "deceased": 94,
       "recovered": 4316,
-      "tested": 345426
+      "tested": 351865
     }
   },
   "KA": {
     "delta": {
       "confirmed": 1267,
       "deceased": 16,
-      "recovered": 220
+      "recovered": 220,
+      "tested": 13835
     },
     "districts": {
       "Bagalkote": {
@@ -4029,8 +4030,7 @@
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "population": 65798000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://t.me/Karnataka_KoViD19_Broadcast/4471"
+        "last_updated": "2020-06-28"
       }
     },
     "total": {
@@ -4038,7 +4038,7 @@
       "deceased": 207,
       "migrated": 4,
       "recovered": 7509,
-      "tested": 581635
+      "tested": 595470
     }
   },
   "KL": {
@@ -8708,12 +8708,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 17313,
+      "confirmed": 17320,
       "deceased": 356,
-      "recovered": 10596
+      "recovered": 10597
     },
     "meta": {
-      "last_updated": "2020-06-28T20:43:14+05:30",
+      "last_updated": "2020-06-28T20:53:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -8721,10 +8721,10 @@
       }
     },
     "total": {
-      "confirmed": 546900,
+      "confirmed": 546907,
       "deceased": 16459,
       "migrated": 56,
-      "recovered": 320742,
+      "recovered": 320743,
       "tested": 8227802
     }
   },

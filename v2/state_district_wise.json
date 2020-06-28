@@ -64,10 +64,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 29,
-        "confirmed": 40,
+        "active": 35,
+        "confirmed": 47,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

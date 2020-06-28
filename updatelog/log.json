@@ -1,9 +1,5 @@
 [
   {
-    "update": "66 new cases and 87 recoveries in Uttarakhand\n",
-    "timestamp": 1593266063
-  },
-  {
     "update": "1 new case and 3 recoveries in Himachal Pradesh\n17 new cases and 39 recoveries in Manipur\n",
     "timestamp": 1593267302
   },
@@ -198,5 +194,9 @@
   {
     "update": "127 new cases, 91 recoveries and 1 death in Jammu and Kashmir\n2 new cases in Chandigarh\n",
     "timestamp": 1593357251
+  },
+  {
+    "update": "7 new cases and 1 recovery in Andaman and Nicobar Islands\n",
+    "timestamp": 1593357879
   }
 ]

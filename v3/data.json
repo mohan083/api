@@ -2206,7 +2206,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T20:25:21+05:30",
+      "last_updated": "2020-06-28T23:53:15+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -3278,7 +3278,8 @@
   "JH": {
     "delta": {
       "confirmed": 25,
-      "recovered": 69
+      "recovered": 69,
+      "tested": 2162
     },
     "districts": {
       "Bokaro": {
@@ -3514,15 +3515,15 @@
       "last_updated": "2020-06-28T21:46:19+05:30",
       "population": 37403000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://twitter.com/FOBGumla/status/1276920437373468673?s=20"
+        "last_updated": "2020-06-28",
+        "source": "https://twitter.com/FOBGumla/status/1277273675885015041?s=20"
       }
     },
     "total": {
       "confirmed": 2364,
       "deceased": 12,
       "recovered": 1793,
-      "tested": 135276
+      "tested": 137438
     }
   },
   "JK": {
@@ -3830,19 +3831,20 @@
       },
       "Bengaluru Rural": {
         "delta": {
-          "confirmed": 27
+          "confirmed": 27,
+          "tested": 732
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-24",
-            "source": "https://t.me/Karnataka_KoViD19_Broadcast/4414"
+            "last_updated": "2020-06-28",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/725"
           }
         },
         "total": {
           "confirmed": 105,
           "deceased": 4,
           "recovered": 14,
-          "tested": 3489
+          "tested": 4221
         }
       },
       "Bengaluru Urban": {
@@ -3992,19 +3994,20 @@
         "delta": {
           "confirmed": 18,
           "deceased": 1,
-          "recovered": 7
+          "recovered": 7,
+          "tested": 219
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://t.me/Karnataka_KoViD19_Broadcast/4478"
+            "last_updated": "2020-06-28",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/724"
           }
         },
         "total": {
           "confirmed": 311,
           "deceased": 6,
           "recovered": 165,
-          "tested": 24167
+          "tested": 24386
         }
       },
       "Gadag": {
@@ -4082,19 +4085,20 @@
       },
       "Kodagu": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "tested": 612
         },
         "meta": {
           "population": 554519,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://t.me/Karnataka_KoViD19_Broadcast/4473"
+            "last_updated": "2020-06-28",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/721"
           }
         },
         "total": {
           "confirmed": 42,
           "recovered": 3,
-          "tested": 7813
+          "tested": 8425
         }
       },
       "Kolar": {
@@ -4153,19 +4157,20 @@
         "delta": {
           "confirmed": 18,
           "deceased": 1,
-          "recovered": 32
+          "recovered": 32,
+          "tested": 746
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://t.me/Karnataka_KoViD19_Broadcast/4476"
+            "last_updated": "2020-06-28",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/722"
           }
         },
         "total": {
           "confirmed": 253,
           "deceased": 2,
           "recovered": 162,
-          "tested": 18723
+          "tested": 19469
         }
       },
       "Other State": {
@@ -4194,18 +4199,21 @@
         }
       },
       "Ramanagara": {
+        "delta": {
+          "tested": 89
+        },
         "meta": {
           "population": 1082636,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://t.me/Karnataka_KoViD19_Broadcast/4470"
+            "last_updated": "2020-06-28",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/723"
           }
         },
         "total": {
           "confirmed": 148,
           "deceased": 4,
           "recovered": 21,
-          "tested": 8740
+          "tested": 8829
         }
       },
       "Shivamogga": {
@@ -8995,93 +9003,105 @@
     },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "tested": 63
+        },
         "meta": {
           "population": 378230,
           "tested": {
-            "last_updated": "2020-06-27",
+            "last_updated": "2020-06-28",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 213,
           "recovered": 201,
-          "tested": 6434
+          "tested": 6497
         }
       },
       "Gomati": {
         "delta": {
           "confirmed": 1,
-          "recovered": 3
+          "recovered": 3,
+          "tested": 66
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
+            "last_updated": "2020-06-28",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 138,
           "recovered": 101,
-          "tested": 6334
+          "tested": 6400
         }
       },
       "Khowai": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "tested": 19
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
+            "last_updated": "2020-06-28",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 64,
           "recovered": 30,
-          "tested": 2839
+          "tested": 2858
         }
       },
       "North Tripura": {
+        "delta": {
+          "tested": 240
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
+            "last_updated": "2020-06-28",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 25,
           "recovered": 13,
-          "tested": 12156
+          "tested": 12396
         }
       },
       "Sipahijala": {
         "delta": {
           "confirmed": 8,
-          "recovered": 6
+          "recovered": 6,
+          "tested": 84
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
+            "last_updated": "2020-06-28",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 560,
           "recovered": 514,
-          "tested": 7464
+          "tested": 7548
         }
       },
       "South Tripura": {
+        "delta": {
+          "tested": 15
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
+            "last_updated": "2020-06-28",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 130,
           "recovered": 76,
-          "tested": 6580
+          "tested": 6595
         }
       },
       "Unknown": {
@@ -9091,28 +9111,30 @@
       },
       "Unokoti": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "tested": 12
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
+            "last_updated": "2020-06-28",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 69,
           "recovered": 59,
-          "tested": 2549
+          "tested": 2561
         }
       },
       "West Tripura": {
         "delta": {
           "confirmed": -1,
-          "recovered": -1
+          "recovered": -1,
+          "tested": 585
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
+            "last_updated": "2020-06-28",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
@@ -9120,12 +9142,12 @@
           "confirmed": 152,
           "deceased": 1,
           "recovered": 85,
-          "tested": 16838
+          "tested": 17423
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T23:43:26+05:30",
+      "last_updated": "2020-06-28T23:46:15+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-06-28"
@@ -9145,7 +9167,7 @@
       "recovered": 11628
     },
     "meta": {
-      "last_updated": "2020-06-28T23:43:13+05:30",
+      "last_updated": "2020-06-28T23:53:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",

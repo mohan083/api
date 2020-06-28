@@ -15835,13 +15835,14 @@
     "2020-06-28": {
       "delta": {
         "confirmed": 25,
-        "recovered": 69
+        "recovered": 69,
+        "tested": 2162
       },
       "total": {
         "confirmed": 2364,
         "deceased": 12,
         "recovered": 1793,
-        "tested": 135276
+        "tested": 137438
       }
     }
   },

@@ -341,8 +341,8 @@
         "meta": {
           "population": 21167,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -350,38 +350,42 @@
         }
       },
       "Capital Complex": {
+        "delta": {
+          "tested": 133
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
-          "tested": 6372
+          "tested": 6505
         }
       },
       "Changlang": {
         "delta": {
           "confirmed": 1,
-          "recovered": 1
+          "recovered": 1,
+          "tested": 141
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
           "confirmed": 78,
           "recovered": 26,
-          "tested": 3911
+          "tested": 4052
         }
       },
       "Dibang Valley": {
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -392,8 +396,8 @@
         "meta": {
           "population": 78690,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -402,25 +406,26 @@
       },
       "East Siang": {
         "delta": {
-          "recovered": 5
+          "recovered": 5,
+          "tested": 17
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
           "confirmed": 10,
           "recovered": 10,
-          "tested": 1901
+          "tested": 1918
         }
       },
       "Kamle": {
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -430,8 +435,8 @@
       "Kra-Daadi": {
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -442,8 +447,8 @@
         "meta": {
           "population": 92076,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -451,23 +456,26 @@
         }
       },
       "Lepa Rada": {
+        "delta": {
+          "tested": 3
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
           "confirmed": 1,
-          "tested": 149
+          "tested": 152
         }
       },
       "Lohit": {
         "meta": {
           "population": 145726,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -479,8 +487,8 @@
       "Longding": {
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -490,41 +498,50 @@
         }
       },
       "Lower Dibang Valley": {
+        "delta": {
+          "tested": 6
+        },
         "meta": {
           "population": 54080,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
           "confirmed": 3,
           "recovered": 2,
-          "tested": 786
+          "tested": 792
         }
       },
       "Lower Siang": {
+        "delta": {
+          "tested": 6
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
           "confirmed": 1,
-          "tested": 449
+          "tested": 455
         }
       },
       "Lower Subansiri": {
+        "delta": {
+          "tested": 13
+        },
         "meta": {
           "population": 83030,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
-          "tested": 452
+          "tested": 465
         }
       },
       "Namsai": {
@@ -533,8 +550,8 @@
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -546,8 +563,8 @@
       "Pakke Kessang": {
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -558,25 +575,26 @@
       },
       "Papum Pare": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "tested": 16
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
           "confirmed": 46,
           "recovered": 8,
-          "tested": 453
+          "tested": 469
         }
       },
       "Shi Yomi": {
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -584,22 +602,25 @@
         }
       },
       "Siang": {
+        "delta": {
+          "tested": 10
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
-          "tested": 112
+          "tested": 122
         }
       },
       "Tawang": {
         "meta": {
           "population": 49977,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -608,23 +629,26 @@
         }
       },
       "Tirap": {
+        "delta": {
+          "tested": 26
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
           "confirmed": 3,
           "recovered": 1,
-          "tested": 1210
+          "tested": 1236
         }
       },
       "Upper Siang": {
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -637,8 +661,8 @@
         "meta": {
           "population": 83448,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -646,25 +670,28 @@
         }
       },
       "West Kameng": {
+        "delta": {
+          "tested": 17
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
           "confirmed": 15,
           "deceased": 1,
           "recovered": 3,
-          "tested": 1062
+          "tested": 1079
         }
       },
       "West Siang": {
         "meta": {
           "population": 112274,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
           }
         },
         "total": {
@@ -2727,7 +2754,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T21:53:32+05:30",
+      "last_updated": "2020-06-28T21:55:19+05:30",
       "population": 67936000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -2870,7 +2897,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T21:53:39+05:30",
+      "last_updated": "2020-06-28T21:55:22+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -9046,7 +9073,7 @@
       "recovered": 11495
     },
     "meta": {
-      "last_updated": "2020-06-28T21:53:25+05:30",
+      "last_updated": "2020-06-28T21:55:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",

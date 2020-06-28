@@ -17189,9 +17189,9 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 89264,KA-P7159,28/06/2020,,,,Raichur,Karnataka,KA,1,Recovered,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,118629
 89265,KA-P6257,28/06/2020,71,F,,Dharwad,Karnataka,KA,1,Deceased,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,118630
 89266,KA-P7743,28/06/2020,60,F,,Hassan,Karnataka,KA,1,Deceased,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,118631
-89267,KA-P8691,28/06/2020,66,M,,Bangalore Urban,Karnataka,KA,1,Deceased,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,118632
-89268,KA-P9014,28/06/2020,62,M,,Bangalore Urban,Karnataka,KA,1,Deceased,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,118633
-89269,KA-P9321,28/06/2020,55,M,,Bangalore Urban,Karnataka,KA,1,Deceased,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,118634
+89267,KA-P8691,28/06/2020,66,M,,Bengaluru Urban,Karnataka,KA,1,Deceased,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,118632
+89268,KA-P9014,28/06/2020,62,M,,Bengaluru Urban,Karnataka,KA,1,Deceased,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,118633
+89269,KA-P9321,28/06/2020,55,M,,Bengaluru Urban,Karnataka,KA,1,Deceased,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,118634
 89270,KA-P10642,28/06/2020,55,M,,Bagalkote,Karnataka,KA,1,Deceased,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,118635
 89271,KA-P11386,28/06/2020,48,F,,Dakshina Kannada,Karnataka,KA,1,Deceased,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,118636
 89272,KA-P11942,28/06/2020,70,M,,Mysuru,Karnataka,KA,1,Deceased,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,118637
@@ -17687,64 +17687,64 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 89762,,28/06/2020,,,,Simdega,Jharkhand,JH,31,Recovered,,,https://t.me/indiacovid/8713,,,,,,119127
 89763,,28/06/2020,,,,Giridih,Jharkhand,JH,15,Recovered,,,https://t.me/indiacovid/8713,,,,,,119128
 89764,,28/06/2020,,,,Ramgarh,Jharkhand,JH,5,Recovered,,,https://t.me/indiacovid/8713,,,,,,119129
-89765,,28/06/2020,,,,,,,,,,,,,,,,,119130
-89766,,28/06/2020,,,,,,,,,,,,,,,,,119131
-89767,,28/06/2020,,,,,,,,,,,,,,,,,119132
-89768,,28/06/2020,,,,,,,,,,,,,,,,,119133
-89769,,28/06/2020,,,,,,,,,,,,,,,,,119134
-89770,,,,,,,,,,,,,,,,,,,119135
-89771,,,,,,,,,,,,,,,,,,,119136
-89772,,,,,,,,,,,,,,,,,,,119137
-89773,,,,,,,,,,,,,,,,,,,119138
-89774,,,,,,,,,,,,,,,,,,,119139
-89775,,,,,,,,,,,,,,,,,,,119140
-89776,,,,,,,,,,,,,,,,,,,119141
-89777,,,,,,,,,,,,,,,,,,,119142
-89778,,,,,,,,,,,,,,,,,,,119143
-89779,,,,,,,,,,,,,,,,,,,119144
-89780,,,,,,,,,,,,,,,,,,,119145
-89781,,,,,,,,,,,,,,,,,,,119146
-89782,,,,,,,,,,,,,,,,,,,119147
-89783,,,,,,,,,,,,,,,,,,,119148
-89784,,,,,,,,,,,,,,,,,,,119149
-89785,,,,,,,,,,,,,,,,,,,119150
-89786,,,,,,,,,,,,,,,,,,,119151
-89787,,,,,,,,,,,,,,,,,,,119152
-89788,,,,,,,,,,,,,,,,,,,119153
-89789,,,,,,,,,,,,,,,,,,,119154
-89790,,,,,,,,,,,,,,,,,,,119155
-89791,,,,,,,,,,,,,,,,,,,119156
-89792,,,,,,,,,,,,,,,,,,,119157
-89793,,,,,,,,,,,,,,,,,,,119158
-89794,,,,,,,,,,,,,,,,,,,119159
-89795,,,,,,,,,,,,,,,,,,,119160
-89796,,,,,,,,,,,,,,,,,,,119161
-89797,,,,,,,,,,,,,,,,,,,119162
-89798,,,,,,,,,,,,,,,,,,,119163
-89799,,,,,,,,,,,,,,,,,,,119164
-89800,,,,,,,,,,,,,,,,,,,119165
-89801,,,,,,,,,,,,,,,,,,,119166
-89802,,,,,,,,,,,,,,,,,,,119167
-89803,,,,,,,,,,,,,,,,,,,119168
-89804,,,,,,,,,,,,,,,,,,,119169
-89805,,,,,,,,,,,,,,,,,,,119170
-89806,,,,,,,,,,,,,,,,,,,119171
-89807,,,,,,,,,,,,,,,,,,,119172
-89808,,,,,,,,,,,,,,,,,,,119173
-89809,,,,,,,,,,,,,,,,,,,119174
-89810,,,,,,,,,,,,,,,,,,,119175
-89811,,,,,,,,,,,,,,,,,,,119176
-89812,,,,,,,,,,,,,,,,,,,119177
-89813,,,,,,,,,,,,,,,,,,,119178
-89814,,,,,,,,,,,,,,,,,,,119179
-89815,,,,,,,,,,,,,,,,,,,119180
-89816,,,,,,,,,,,,,,,,,,,119181
-89817,,,,,,,,,,,,,,,,,,,119182
-89818,,,,,,,,,,,,,,,,,,,119183
-89819,,,,,,,,,,,,,,,,,,,119184
-89820,,,,,,,,,,,,,,,,,,,119185
-89821,,,,,,,,,,,,,,,,,,,119186
-89822,,,,,,,,,,,,,,,,,,,119187
+89765,,28/06/2020,,,,Ahmedabad,Gujarat,GJ,211,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119130
+89766,,28/06/2020,,,,Amreli,Gujarat,GJ,10,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119131
+89767,,28/06/2020,,,,Anand,Gujarat,GJ,3,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119132
+89768,,28/06/2020,,,,Aravalli,Gujarat,GJ,4,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119133
+89769,,28/06/2020,,,,Banaskantha,Gujarat,GJ,7,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119134
+89770,,28/06/2020,,,,Bharuch,Gujarat,GJ,7,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119135
+89771,,28/06/2020,,,,Bhavnagar,Gujarat,GJ,8,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119136
+89772,,28/06/2020,,,,Botad,Gujarat,GJ,3,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119137
+89773,,28/06/2020,,,,Gandhinagar,Gujarat,GJ,11,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119138
+89774,,28/06/2020,,,,Gir Somnath,Gujarat,GJ,1,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119139
+89775,,28/06/2020,,,,Jamnagar,Gujarat,GJ,2,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119140
+89776,,28/06/2020,,,,Junagadh,Gujarat,GJ,10,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119141
+89777,,28/06/2020,,,,Kutch,Gujarat,GJ,10,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119142
+89778,,28/06/2020,,,,Kheda,Gujarat,GJ,6,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119143
+89779,,28/06/2020,,,,Mehsana,Gujarat,GJ,8,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119144
+89780,,28/06/2020,,,,Morbi,Gujarat,GJ,4,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119145
+89781,,28/06/2020,,,,Narmada,Gujarat,GJ,1,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119146
+89782,,28/06/2020,,,,Navsari,Gujarat,GJ,4,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119147
+89783,,28/06/2020,,,,Panchmahal,Gujarat,GJ,2,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119148
+89784,,28/06/2020,,,,Patan,Gujarat,GJ,11,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119149
+89785,,28/06/2020,,,,Porbandar,Gujarat,GJ,2,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119150
+89786,,28/06/2020,,,,Rajkot,Gujarat,GJ,10,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119151
+89787,,28/06/2020,,,,Sabarkantha,Gujarat,GJ,3,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119152
+89788,,28/06/2020,,,,Surat,Gujarat,GJ,182,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119153
+89789,,28/06/2020,,,,Surendranagar,Gujarat,GJ,10,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119154
+89790,,28/06/2020,,,,Tapi,Gujarat,GJ,1,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119155
+89791,,28/06/2020,,,,Vadodara,Gujarat,GJ,44,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119156
+89792,,28/06/2020,,,,Valsad,Gujarat,GJ,36,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119157
+89793,,28/06/2020,,,,Ahmedabad,Gujarat,GJ,181,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119158
+89794,,28/06/2020,,,,Amreli,Gujarat,GJ,1,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119159
+89795,,28/06/2020,,,,Anand,Gujarat,GJ,3,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119160
+89796,,28/06/2020,,,,Aravalli,Gujarat,GJ,1,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119161
+89797,,28/06/2020,,,,Banaskantha,Gujarat,GJ,6,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119162
+89798,,28/06/2020,,,,Bhavnagar,Gujarat,GJ,3,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119163
+89799,,28/06/2020,,,,Botad,Gujarat,GJ,2,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119164
+89800,,28/06/2020,,,,Gandhinagar,Gujarat,GJ,9,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119165
+89801,,28/06/2020,,,,Jamnagar,Gujarat,GJ,2,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119166
+89802,,28/06/2020,,,,Kheda,Gujarat,GJ,3,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119167
+89803,,28/06/2020,,,,Morbi,Gujarat,GJ,1,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119168
+89804,,28/06/2020,,,,Navsari,Gujarat,GJ,1,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119169
+89805,,28/06/2020,,,,Panchmahal,Gujarat,GJ,3,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119170
+89806,,28/06/2020,,,,Patan,Gujarat,GJ,2,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119171
+89807,,28/06/2020,,,,Surat,Gujarat,GJ,156,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119172
+89808,,28/06/2020,,,,Vadodara,Gujarat,GJ,17,Recovered,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119173
+89809,,28/06/2020,,,,Ahmedabad,Gujarat,GJ,13,Deceased,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119174
+89810,,28/06/2020,,,,Aravalli,Gujarat,GJ,1,Deceased,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119175
+89811,,28/06/2020,,,,Bharuch,Gujarat,GJ,1,Deceased,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119176
+89812,,28/06/2020,,,,Gandhinagar,Gujarat,GJ,1,Deceased,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119177
+89813,,28/06/2020,,,,Surat,Gujarat,GJ,3,Deceased,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119178
+89814,,28/06/2020,,,,Other State,Gujarat,GJ,13,Hospitalized,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=19,,,,,,119179
+89815,,28/06/2020,,,,Bilaspur,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1277272143567314947?s=19,,,,,,119180
+89816,,28/06/2020,,,,Kangra,Himachal Pradesh,HP,6,Hospitalized,,,https://twitter.com/nhm_hp/status/1277272143567314947?s=19,,,,,,119181
+89817,,28/06/2020,,,,Kinnaur,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1277272143567314947?s=19,,,,,,119182
+89818,,28/06/2020,,,,Shimla,Himachal Pradesh,HP,1,Hospitalized,,,https://twitter.com/nhm_hp/status/1277272143567314947?s=19,,,,,,119183
+89819,,28/06/2020,,,,Solan,Himachal Pradesh,HP,2,Hospitalized,,,https://twitter.com/nhm_hp/status/1277272143567314947?s=19,,,,,,119184
+89820,,28/06/2020,,,,Una,Himachal Pradesh,HP,3,Hospitalized,,,https://twitter.com/nhm_hp/status/1277272143567314947?s=19,,,,,,119185
+89821,,28/06/2020,,,,Kangra,Himachal Pradesh,HP,2,Recovered,,,https://twitter.com/nhm_hp/status/1277272143567314947?s=19,,,,,,119186
+89822,,28/06/2020,,,,Solan,Himachal Pradesh,HP,1,Recovered,,,https://twitter.com/nhm_hp/status/1277272143567314947?s=19,,,,,,119187
 89823,,,,,,,,,,,,,,,,,,,119188
 89824,,,,,,,,,,,,,,,,,,,119189
 89825,,,,,,,,,,,,,,,,,,,119190

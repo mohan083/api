@@ -1,9 +1,5 @@
 [
   {
-    "update": "1050 new cases in Maharashtra\n",
-    "timestamp": 1593269665
-  },
-  {
     "update": "918 new cases and 371 recoveries in Karnataka\n",
     "timestamp": 1593270439
   },
@@ -198,5 +194,9 @@
   {
     "update": "25 new cases and 69 recoveries in Jharkhand\n",
     "timestamp": 1593360432
+  },
+  {
+    "update": "624 new cases, 391 recoveries and 19 deaths in Gujarat\n14 new cases and 3 recoveries in Himachal Pradesh\n",
+    "timestamp": 1593360897
   }
 ]

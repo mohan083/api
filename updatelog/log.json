@@ -1,9 +1,5 @@
 [
   {
-    "update": "613 new cases, 379 recoveries and 18 deaths in Gujarat\n",
-    "timestamp": 1593271487
-  },
-  {
     "update": "2 new cases in Mizoram\n3 new cases and 5 recoveries in Arunachal Pradesh\n",
     "timestamp": 1593272723
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Assam\n12 new cases in Tripura\n",
     "timestamp": 1593363306
+  },
+  {
+    "update": "1 recovery in Tripura\n",
+    "timestamp": 1593366874
   }
 ]

@@ -8719,14 +8719,14 @@
       {
         "district": "Gomati",
         "notes": "",
-        "active": 40,
+        "active": 37,
         "confirmed": 138,
         "deceased": 0,
-        "recovered": 98,
+        "recovered": 101,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
@@ -8758,14 +8758,14 @@
       {
         "district": "Sipahijala",
         "notes": "",
-        "active": 52,
+        "active": 46,
         "confirmed": 560,
         "deceased": 0,
-        "recovered": 508,
+        "recovered": 514,
         "delta": {
           "confirmed": 8,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       {
@@ -8797,27 +8797,14 @@
       {
         "district": "West Tripura",
         "notes": "",
-        "active": 65,
+        "active": 66,
         "confirmed": 152,
         "deceased": 1,
-        "recovered": 86,
+        "recovered": 85,
         "delta": {
           "confirmed": -1,
           "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -7,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 7,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "recovered": -1
         }
       }
     ]

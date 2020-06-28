@@ -1353,15 +1353,15 @@
 	],
 	"statewise": [
 		{
-			"active": "210561",
+			"active": "210560",
 			"confirmed": "548869",
 			"deaths": "16486",
 			"deltaconfirmed": "19282",
 			"deltadeaths": "383",
-			"deltarecovered": "11620",
-			"lastupdatedtime": "28/06/2020 22:37:13",
+			"deltarecovered": "11621",
+			"lastupdatedtime": "28/06/2020 23:23:13",
 			"migratedother": "56",
-			"recovered": "321766",
+			"recovered": "321767",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1675,15 +1675,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "272",
+			"active": "271",
 			"confirmed": "1351",
 			"deaths": "1",
 			"deltaconfirmed": "12",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "28/06/2020 22:37:16",
+			"deltarecovered": "1",
+			"lastupdatedtime": "28/06/2020 23:23:18",
 			"migratedother": "0",
-			"recovered": "1078",
+			"recovered": "1079",
 			"state": "Tripura",
 			"statecode": "TR",
 			"statenotes": ""

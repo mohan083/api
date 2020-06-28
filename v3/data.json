@@ -8989,7 +8989,9 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 12
+      "confirmed": 12,
+      "recovered": 1,
+      "tested": 1084
     },
     "districts": {
       "Dhalai": {
@@ -9008,7 +9010,8 @@
       },
       "Gomati": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 3
         },
         "meta": {
           "tested": {
@@ -9018,7 +9021,7 @@
         },
         "total": {
           "confirmed": 138,
-          "recovered": 98,
+          "recovered": 101,
           "tested": 6334
         }
       },
@@ -9053,7 +9056,8 @@
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 8,
+          "recovered": 6
         },
         "meta": {
           "tested": {
@@ -9063,7 +9067,7 @@
         },
         "total": {
           "confirmed": 560,
-          "recovered": 508,
+          "recovered": 514,
           "tested": 7464
         }
       },
@@ -9081,8 +9085,8 @@
         }
       },
       "Unknown": {
-        "total": {
-          "recovered": 7
+        "delta": {
+          "recovered": -7
         }
       },
       "Unokoti": {
@@ -9103,7 +9107,8 @@
       },
       "West Tripura": {
         "delta": {
-          "confirmed": -1
+          "confirmed": -1,
+          "recovered": -1
         },
         "meta": {
           "tested": {
@@ -9114,34 +9119,33 @@
         "total": {
           "confirmed": 152,
           "deceased": 1,
-          "recovered": 86,
+          "recovered": 85,
           "tested": 16838
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T22:37:16+05:30",
+      "last_updated": "2020-06-28T23:23:18+05:30",
       "population": 3992000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/698"
+        "last_updated": "2020-06-28"
       }
     },
     "total": {
       "confirmed": 1351,
       "deceased": 1,
-      "recovered": 1078,
-      "tested": 61194
+      "recovered": 1079,
+      "tested": 62278
     }
   },
   "TT": {
     "delta": {
       "confirmed": 19282,
       "deceased": 383,
-      "recovered": 11620
+      "recovered": 11621
     },
     "meta": {
-      "last_updated": "2020-06-28T22:37:13+05:30",
+      "last_updated": "2020-06-28T23:23:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -9152,7 +9156,7 @@
       "confirmed": 548869,
       "deceased": 16486,
       "migrated": 56,
-      "recovered": 321766,
+      "recovered": 321767,
       "tested": 8227802
     }
   },

@@ -15725,7 +15725,7 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 87800,KA-P11946,28/06/2020,44,M,,Chikkamagaluru,Karnataka,KA,1,Hospitalized,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,117165
 87801,KA-P11947,28/06/2020,37,M,,Chikkamagaluru,Karnataka,KA,1,Hospitalized,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,117166
 87802,KA-P11948,28/06/2020,76,F,,Tumakuru,Karnataka,KA,1,Hospitalized,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,117167
-87803,KA-P11949,28/06/2020,40,M,,Tumkur,Karnataka,KA,1,Hospitalized,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,117168
+87803,KA-P11949,28/06/2020,40,M,,Tumakuru,Karnataka,KA,1,Hospitalized,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,117168
 87804,KA-P11950,28/06/2020,37,M,,Davanagere,Karnataka,KA,1,Hospitalized,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,117169
 87805,KA-P11951,28/06/2020,64,M,,Davanagere,Karnataka,KA,1,Hospitalized,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,117170
 87806,KA-P11952,28/06/2020,30,F,,Davanagere,Karnataka,KA,1,Hospitalized,,,https://t.me/Karnataka_KoViD19_Broadcast/4509,,,,,,117171
@@ -17776,13 +17776,13 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 89851,,28/06/2020,,,,West Tripura,Tripura,TR,-1,Recovered,,Re Con With Dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,119216
 89852,,28/06/2020,,,,Sipahijala,Tripura,TR,6,Recovered,,Re Con With Dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,119217
 89853,,28/06/2020,,,,Gomati,Tripura,TR,3,Recovered,,Re Con With Dashboard,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,119218
-89854,,28/06/2020,,,,,,,,,,,,,,,,,119219
-89855,,28/06/2020,,,,,,,,,,,,,,,,,119220
-89856,,28/06/2020,,,,,,,,,,,,,,,,,119221
-89857,,28/06/2020,,,,,,,,,,,,,,,,,119222
-89858,,28/06/2020,,,,,,,,,,,,,,,,,119223
-89859,,28/06/2020,,,,,,,,,,,,,,,,,119224
-89860,,28/06/2020,,,,,,,,,,,,,,,,,119225
+89854,,28/06/2020,,,,South Goa,Goa,,1,Deceased,,,,,,,,,119219
+89855,,28/06/2020,,,,,Goa,GA,-25,Hospitalized,,,,,,,,,119220
+89856,,28/06/2020,,,,North Goa,Goa,GA,3,Hospitalized,,,,,,,,,119221
+89857,,28/06/2020,,,,South Goa,Goa,GA,22,Hospitalized,,,,,,,,,119222
+89858,,28/06/2020,,,,,Goa,GA,-16,Recovered,,,,,,,,,119223
+89859,,28/06/2020,,,,North Goa,Goa,GA,6,Recovered,,,,,,,,,119224
+89860,,28/06/2020,,,,South Goa,Goa,GA,10,Recovered,,,,,,,,,119225
 89861,,28/06/2020,,,,,,,,,,,,,,,,,119226
 89862,,28/06/2020,,,,,,,,,,,,,,,,,119227
 89863,,28/06/2020,,,,,,,,,,,,,,,,,119228

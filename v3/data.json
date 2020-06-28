@@ -2158,18 +2158,23 @@
   "GA": {
     "delta": {
       "confirmed": 70,
+      "deceased": 1,
       "recovered": 58,
       "tested": 1258
     },
     "districts": {
       "North Goa": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 6
+        },
         "meta": {
           "population": 818008
         },
         "total": {
-          "confirmed": 63,
+          "confirmed": 66,
           "deceased": 1,
-          "recovered": 6
+          "recovered": 12
         }
       },
       "Other State": {
@@ -2178,20 +2183,25 @@
         }
       },
       "South Goa": {
-        "total": {
-          "confirmed": 765,
+        "delta": {
+          "confirmed": 22,
           "deceased": 1,
-          "recovered": 164
+          "recovered": 10
+        },
+        "total": {
+          "confirmed": 787,
+          "deceased": 2,
+          "recovered": 174
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 70,
-          "recovered": 58
+          "confirmed": 45,
+          "recovered": 42
         },
         "total": {
-          "confirmed": 366,
-          "recovered": 308
+          "confirmed": 341,
+          "recovered": 292
         }
       }
     },
@@ -2205,7 +2215,7 @@
     },
     "total": {
       "confirmed": 1198,
-      "deceased": 2,
+      "deceased": 3,
       "recovered": 478,
       "tested": 62945
     }
@@ -3784,27 +3794,20 @@
         "delta": {
           "confirmed": 71,
           "deceased": 1,
-          "recovered": 21
+          "recovered": 21,
+          "tested": 184
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/711"
+            "last_updated": "2020-06-28",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/720"
           }
         },
         "total": {
           "confirmed": 697,
           "deceased": 11,
           "recovered": 313,
-          "tested": 15806
-        }
-      },
-      "Bangalore Rural": {
-        "delta": {
-          "confirmed": 27
-        },
-        "total": {
-          "confirmed": 27
+          "tested": 15990
         }
       },
       "Belagavi": {
@@ -3826,6 +3829,9 @@
         }
       },
       "Bengaluru Rural": {
+        "delta": {
+          "confirmed": 27
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-24",
@@ -3833,7 +3839,7 @@
           }
         },
         "total": {
-          "confirmed": 78,
+          "confirmed": 105,
           "deceased": 4,
           "recovered": 14,
           "tested": 3489
@@ -3842,12 +3848,13 @@
       "Bengaluru Urban": {
         "delta": {
           "confirmed": 783,
-          "deceased": 4
+          "deceased": 4,
+          "tested": 10357
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://t.me/Karnataka_KoViD19_Broadcast/4479"
+            "last_updated": "2020-06-28",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/719"
           }
         },
         "total": {
@@ -3855,7 +3862,7 @@
           "deceased": 88,
           "migrated": 1,
           "recovered": 534,
-          "tested": 92309
+          "tested": 102666
         }
       },
       "Bidar": {
@@ -4220,7 +4227,7 @@
       },
       "Tumakuru": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 2
         },
         "meta": {
@@ -4230,18 +4237,10 @@
           }
         },
         "total": {
-          "confirmed": 74,
+          "confirmed": 75,
           "deceased": 5,
           "recovered": 39,
           "tested": 14758
-        }
-      },
-      "Tumkur": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
         }
       },
       "Udupi": {
@@ -6264,7 +6263,8 @@
       "last_updated": "2020-06-28T09:53:17+05:30",
       "population": 1192000,
       "tested": {
-        "last_updated": "2020-06-28"
+        "last_updated": "2020-06-28",
+        "source": "https://dipr.mizoram.gov.in/uploads/attachments/0a672dd112405baab592d32f566686b0/2862020-covid-19-bulletin-hfw-gom-eng.pdf"
       }
     },
     "total": {
@@ -9125,7 +9125,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T23:36:17+05:30",
+      "last_updated": "2020-06-28T23:43:26+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-06-28"
@@ -9141,11 +9141,11 @@
   "TT": {
     "delta": {
       "confirmed": 19282,
-      "deceased": 383,
+      "deceased": 384,
       "recovered": 11628
     },
     "meta": {
-      "last_updated": "2020-06-28T23:36:13+05:30",
+      "last_updated": "2020-06-28T23:43:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -9154,7 +9154,7 @@
     },
     "total": {
       "confirmed": 548869,
-      "deceased": 16486,
+      "deceased": 16487,
       "migrated": 56,
       "recovered": 321774,
       "tested": 8227802

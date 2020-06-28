@@ -18625,11 +18625,16 @@
       }
     },
     "2020-06-28": {
+      "delta": {
+        "confirmed": 1267,
+        "deceased": 16,
+        "recovered": 220
+      },
       "total": {
-        "confirmed": 11923,
-        "deceased": 191,
+        "confirmed": 13190,
+        "deceased": 207,
         "migrated": 4,
-        "recovered": 7289,
+        "recovered": 7509,
         "tested": 581635
       }
     }
@@ -25543,12 +25548,15 @@
     },
     "2020-06-28": {
       "delta": {
+        "confirmed": 221,
+        "deceased": 7,
+        "recovered": 113,
         "tested": 7795
       },
       "total": {
-        "confirmed": 12965,
-        "deceased": 550,
-        "recovered": 9971,
+        "confirmed": 13186,
+        "deceased": 557,
+        "recovered": 10084,
         "tested": 344836
       }
     }
@@ -37971,15 +37979,15 @@
     },
     "2020-06-28": {
       "delta": {
-        "confirmed": 15028,
-        "deceased": 321,
-        "recovered": 9247
+        "confirmed": 17114,
+        "deceased": 355,
+        "recovered": 10173
       },
       "total": {
-        "confirmed": 544615,
-        "deceased": 16424,
+        "confirmed": 546701,
+        "deceased": 16458,
         "migrated": 56,
-        "recovered": 319393,
+        "recovered": 320319,
         "tested": 8227802
       }
     }
@@ -39721,10 +39729,15 @@
       }
     },
     "2020-06-28": {
+      "delta": {
+        "confirmed": 598,
+        "deceased": 11,
+        "recovered": 593
+      },
       "total": {
-        "confirmed": 21549,
-        "deceased": 649,
-        "recovered": 14215,
+        "confirmed": 22147,
+        "deceased": 660,
+        "recovered": 14808,
         "tested": 663096
       }
     }
@@ -42284,13 +42297,14 @@
       "delta": {
         "confirmed": 572,
         "deceased": 10,
-        "recovered": 404
+        "recovered": 404,
+        "tested": 10563
       },
       "total": {
         "confirmed": 17283,
         "deceased": 639,
         "recovered": 11193,
-        "tested": 458343
+        "tested": 468906
       }
     }
   }

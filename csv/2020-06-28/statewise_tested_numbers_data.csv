@@ -1415,7 +1415,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 25/06/2020,Madhya Pradesh,321595,Reports Received,12595,305182,,,,,,,,,,,,,,,https://twitter.com/healthminmp/status/1276148036507521024?s=20,,,,3.92%,3.91,3911,26,82232000
 26/06/2020,Madhya Pradesh,329079,Reports Received,12798,312463,,,,,,,,,,,,,,181,https://twitter.com/healthminmp/status/1276520347655761925?s=20,,,,3.89%,4.00,4002,26,82232000
 27/06/2020,Madhya Pradesh,337041,Reports Received,12965,320258,,,,,,,,,,,,,,181,https://twitter.com/healthminmp/status/1276884983940964352?s=20,,,,,,,,
-28/06/2020,Madhya Pradesh,344836,Reports Received,13186,327832,,,,,,,,,,,,,,181,,,,,,,,,
+28/06/2020,Madhya Pradesh,344836,Reports Received,13186,327832,,,,,,,,,,,,,,181,https://twitter.com/healthminmp/status/1277245311061078016?s=20,,,,,,,,
 05/04/2020,Maharashtra,16008,Tested,,14837,,,,,,,,,,,,,,,,,,,0.00%,0.13,131,,122153000
 06/04/2020,Maharashtra,17563,Tested,868,15808,,,,,,,,,,,,,,,https://www.cnbctv18.com/healthcare/maharashtra-covid-19-tally-mounts-to-868-with-7-fresh-deaths-5634351.htm,,,,4.94%,0.14,144,20,122153000
 07/04/2020,Maharashtra,20877,Tested,1018,19290,569,,,,,,,,,,,,,,https://arogya.maharashtra.gov.in/pdf/covidepressnote07.pdf,,,,4.88%,0.17,171,21,122153000
@@ -2535,5 +2535,6 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 23/06/2020,West Bengal,420277,Tested,14728,,,,8819,Government,91469,,,,948,395,1546262,913040,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_23rd_JUNE_REPORT_FINAL.pdf,,,,3.50%,4.34,4337,29,96906000
 24/06/2020,West Bengal,429766,Tested,15173,,,,8585,Government,92189,,,,948,395,1558262,931040,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_24th_JUNE_REPORT_FINAL.pdf,,,,3.53%,4.43,4435,28,96906000
 25/06/2020,West Bengal,439258,Tested,15648,,,,7865,Government,93180,,,,948,395,1569262,946040,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_25th_JUNE_REPORT_FINAL.pdf,,https://www.wbhealth.gov.in/pages/corona/bulletin,,3.56%,4.53,4533,28,96906000
-26/06/2020,West Bengal,448795,Tested,16190,,,,7330,Government,93898,,,,948,395,1582262,956040,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_26th_JUNE_REPORT_FINAL.pdf,,,,3.61%,4.63,4631,28,96906000
-27/06/2020,West Bengal,458343,Tested,16711,,,,7181,Government,94993,,,,948,395,1596262,966040,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_27th_JUNE_REPORT_FINAL.pdf,,,,3.65%,4.73,4730,27,96906000
+26/06/2020,West Bengal,448795,Tested,16190,,,,7330,Government,93898,,,,948,395,1582262,956040,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_26th_JUNE_REPORT_FINAL.pdf,,https://www.wbhealth.gov.in/pages/corona/bulletin,,3.61%,4.63,4631,28,96906000
+27/06/2020,West Bengal,458343,Tested,16711,,,,7181,Government,94993,,,,948,395,1596262,966040,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_27th_JUNE_REPORT_FINAL.pdf,,https://www.wbhealth.gov.in/pages/corona/bulletin,,3.65%,4.73,4730,27,96906000
+28/06/2020,West Bengal,468906,Tested,17283,,,,6937,Government,95383,,,,948,395,1606262,976040,,,https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_28th_JUNE_REPORT_FINAL.pdf,,https://www.wbhealth.gov.in/pages/corona/bulletin,,3.69%,4.84,4839,27,96906000

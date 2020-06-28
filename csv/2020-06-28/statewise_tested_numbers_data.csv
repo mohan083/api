@@ -260,6 +260,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 25/06/2020,Assam,351753,Tested,6646,,,,,,,,,,,,,,,104,https://twitter.com/himantabiswa/status/1276176117481656321?s=20,,,,,,,,
 26/06/2020,Assam,362713,Tested,6646,,,,,,,,,,,,,,,104,https://twitter.com/himantabiswa/status/1276546006226579457?s=20,,,,,,,,
 27/06/2020,Assam,374519,Tested,6919,,,,28574,Institutional,,,,,,,,,,104,https://twitter.com/nhm_assam/status/1276899235380723717?s=20,,,,,,,,
+28/06/2020,Assam,,Tested,,,,,,,,,,,,,,,,,,,,,,,,,
 05/04/2020,Bihar,3037,Tested,32,2299,706,,,,,,,,,,,,,,https://twitter.com/sanjayjavin/status/1246667952054665216,,,,1.05%,0.03,25,95,119520000
 08/04/2020,Bihar,4596,Tested,38,,465,,,,,,,,,,,,,,https://twitter.com/sanjayjavin/status/1247762894063677440,,,,0.83%,0.04,38,121,119520000
 09/04/2020,Bihar,4991,Tested,43,,394,,,,,,,,,,,,,,https://twitter.com/BiharHealthDept/status/1248176830856626176/photo/1,,,,0.86%,0.04,42,116,119520000
@@ -418,10 +419,11 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 21/06/2020,Chandigarh,6677,Tested,404,6243,28,,,,,,,,,,,,,,https://t.me/indiacovid/7874,,,,6.05%,5.66,5663,17,1179000
 22/06/2020,Chandigarh,6745,Tested,410,6301,32,,,,,,,,,,,,,,https://t.me/indiacovid/7985?single,,,,6.08%,5.72,5721,16,1179000
 23/06/2020,Chandigarh,6840,Tested,415,6390,33,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/612,,,,6.07%,5.80,5802,16,1179000
-24/06/2020,Chandigarh,6981,Tested,420,6528,31,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/634,,,,,,,,
-25/06/2020,Chandigarh,7072,Tested,423,6618,29,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/654,,,,,,,,
-26/06/2020,Chandigarh,7201,Tested,424,6746,29,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/669,,http://chdcovid19.in/,,,,,,
-27/06/2020,Chandigarh,7342,Tested,427,6883,30,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/688,,http://chdcovid19.in/,,,,,,
+24/06/2020,Chandigarh,6981,Tested,420,6528,31,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/634,,,,6.02%,5.92,5921,17,1179000
+25/06/2020,Chandigarh,7072,Tested,423,6618,29,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/654,,,,5.98%,6.00,5998,17,1179000
+26/06/2020,Chandigarh,7201,Tested,424,6746,29,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/669,,http://chdcovid19.in/,,5.89%,6.11,6108,17,1179000
+27/06/2020,Chandigarh,7342,Tested,427,6883,30,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/688,,http://chdcovid19.in/,,5.82%,6.23,6227,17,1179000
+28/06/2020,Chandigarh,7455,Tested,429,6992,32,,,,,,,,,,,,,,,,http://chdcovid19.in/,,5.75%,6.32,6323,17,1179000
 02/04/2020,Chhattisgarh,1232,Tested,9,921,302,,,,,,,,,,,,,,http://www.cghealth.nic.in/cghealth17/,,,,0.73%,0.04,43,137,28724000
 10/04/2020,Chhattisgarh,3473,Tested,18,3322,133,,,,,,,,,,,,,,http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHINDI_10042020.pdf,,,,0.52%,0.12,121,193,28724000
 11/04/2020,Chhattisgarh,3858,Tested,18,3503,337,,,,,,,,,,,,,,http://cghealth.nic.in/cghealth17/Information/content/CORONA/RevisedMediaBulletinHINDI_11042020.pdf,,,,0.47%,0.13,134,214,28724000
@@ -639,6 +641,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 25/06/2020,Delhi,438012,Tested,73780,,,,,,,,,13411,,,,,,1031,https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/06-25.pdf,,https://delhifightscorona.in/,,,,,,
 26/06/2020,Delhi,459156,Tested,77240,,,,,,,,,13411,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/685,,https://delhifightscorona.in/,,,,,,
 27/06/2020,Delhi,478336,Tested,80188,,,,,,,,,,,,,,,,https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/06-27.pdf,,https://delhifightscorona.in/,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 02/04/2020,Goa,220,Samples Sent,5,197,18,,,,,,,,,,,,,,https://www.goa.gov.in/wp-content/uploads/2020/04/Media-Bulletin-02.04.2020.pdf,,,,2.27%,0.1428571429,142.8571429,44,1540000
 09/04/2020,Goa,344,Samples Sent,7,,,,,,,,,,,,,,,,https://twitter.com/dip_goa/status/1248237654258352129?s=09,,,,2.03%,0.22,223,49,1540000
 10/04/2020,Goa,354,Samples Sent,7,,,,,,,,,,,,,,,,https://twitter.com/DHS_Goa/status/1248609175241764872/photo/1,,,,1.98%,0.23,230,51,1540000
@@ -1758,6 +1761,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 25/06/2020,Nagaland,12546,Samples Sent,355,,,,5879,Facility,,,,385,68,39,33190,10756,,,https://twitter.com/MyGovNagaland/status/1276154597757812738?s=20,,https://covid19.nagaland.gov.in/health-main,,,,,,
 26/06/2020,Nagaland,13085,Samples Sent,371,,,,,,,,,385,68,39,33190,10756,,,https://twitter.com/MyGovNagaland/status/1276366102755373056?s=20,,https://covid19.nagaland.gov.in/health-main,,,,,,
 27/06/2020,Nagaland,14217,Samples Sent,387,,,,5737,Facility,,,,385,68,39,33190,10756,,,https://twitter.com/MyGovNagaland/status/1276851882221121536?s=20,,https://covid19.nagaland.gov.in/health-main,,,,,,
+28/06/2020,Nagaland,15240,Samples Sent,415,,,,5632,Facility,,,,385,68,39,33190,10756,,,https://twitter.com/MyGovNagaland/status/1277208984592609282?s=20,,https://covid19.nagaland.gov.in/health-main,,,,,,
 03/04/2020,Odisha,1395,Tested,20,1108,267,,,,,,,,,,,,,,https://twitter.com/HFWOdisha/status/1246135145230303232,,,,1.43%,0.03,32,70,43671000
 07/04/2020,Odisha,2441,Tested,42,,,,,,,,,,,,,,,,https://twitter.com/HFWOdisha/status/1247579939206909953,,,,1.72%,0.06,56,58,43671000
 08/04/2020,Odisha,2441,Tested,42,2399,,,,,,,,,,,,,,,https://health.odisha.gov.in/,,,,1.72%,0.06,56,58,43671000

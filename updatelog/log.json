@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case, 261 recoveries and 2 deaths in Bihar\n",
-    "timestamp": 1593260208
-  },
-  {
     "update": "2 recoveries in Nagaland\n",
     "timestamp": 1593260694
   },
@@ -198,5 +194,9 @@
   {
     "update": "160 new cases, 206 recoveries and 5 deaths in Punjab\n",
     "timestamp": 1593351847
+  },
+  {
+    "update": "308 new cases, 111 recoveries and 5 deaths in Haryana\n32 new cases, 106 recoveries and 1 death in Uttarakhand\n",
+    "timestamp": 1593352484
   }
 ]

@@ -854,9 +854,12 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 917,
-          "deceased": 4,
+          "deceased": 5,
           "recovered": 383
         }
       },
@@ -960,12 +963,11 @@
       },
       "Unknown": {
         "delta": {
-          "deceased": 1,
           "recovered": 274
         },
         "total": {
           "confirmed": 2914,
-          "deceased": 6,
+          "deceased": 5,
           "migrated": 3,
           "recovered": 4173
         }
@@ -977,7 +979,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T22:23:19+05:30",
+      "last_updated": "2020-06-28T22:35:15+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1984,10 +1986,11 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T22:18:16+05:30",
+      "last_updated": "2020-06-28T22:25:19+05:30",
       "population": 28724000,
       "tested": {
-        "last_updated": "2020-06-28"
+        "last_updated": "2020-06-28",
+        "source": "https://twitter.com/HealthCgGov/status/1277278566082699266?s=20"
       }
     },
     "total": {
@@ -2819,7 +2822,8 @@
   "HP": {
     "delta": {
       "confirmed": 22,
-      "recovered": 17
+      "recovered": 17,
+      "tested": 1792
     },
     "districts": {
       "Bilaspur": {
@@ -2949,8 +2953,8 @@
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://twitter.com/nhm_hp/status/1276908964265881600?s=20"
+        "last_updated": "2020-06-28",
+        "source": "https://twitter.com/nhm_hp/status/1277272143567314947?s=20"
       }
     },
     "total": {
@@ -2958,7 +2962,7 @@
       "deceased": 8,
       "migrated": 13,
       "recovered": 518,
-      "tested": 74764
+      "tested": 76556
     }
   },
   "HR": {
@@ -9112,7 +9116,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T22:23:21+05:30",
+      "last_updated": "2020-06-28T22:35:18+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -9133,7 +9137,7 @@
       "recovered": 11620
     },
     "meta": {
-      "last_updated": "2020-06-28T22:23:16+05:30",
+      "last_updated": "2020-06-28T22:35:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",

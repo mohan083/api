@@ -862,13 +862,13 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 530,
+        "active": 529,
         "confirmed": 917,
-        "deceased": 4,
+        "deceased": 5,
         "recovered": 383,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -1070,9 +1070,9 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -1268,
+        "active": -1267,
         "confirmed": 2914,
-        "deceased": 6,
+        "deceased": 5,
         "recovered": 4173,
         "delta": {
           "confirmed": 0,

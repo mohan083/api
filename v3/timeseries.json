@@ -13393,14 +13393,15 @@
     "2020-06-28": {
       "delta": {
         "confirmed": 22,
-        "recovered": 17
+        "recovered": 17,
+        "tested": 1792
       },
       "total": {
         "confirmed": 916,
         "deceased": 8,
         "migrated": 13,
         "recovered": 518,
-        "tested": 74764
+        "tested": 76556
       }
     }
   },

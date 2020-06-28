@@ -4225,12 +4225,12 @@
       "Ernakulam": {
         "delta": {
           "confirmed": 3,
-          "recovered": 6
+          "recovered": 4
         },
         "total": {
           "confirmed": 76,
           "deceased": 1,
-          "recovered": 38
+          "recovered": 36
         }
       },
       "Idukki": {
@@ -4269,12 +4269,13 @@
       },
       "Kollam": {
         "delta": {
-          "confirmed": 19
+          "confirmed": 19,
+          "recovered": 2
         },
         "total": {
           "confirmed": 110,
           "deceased": 1,
-          "recovered": 25
+          "recovered": 27
         }
       },
       "Kottayam": {

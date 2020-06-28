@@ -4267,7 +4267,7 @@
         "total": {
           "confirmed": 83,
           "deceased": 1,
-          "recovered": 39
+          "recovered": 37
         }
       },
       "Idukki": {
@@ -4286,7 +4286,7 @@
         "total": {
           "confirmed": 271,
           "deceased": 2,
-          "recovered": 147
+          "recovered": 145
         }
       },
       "Kasaragod": {
@@ -4298,18 +4298,18 @@
         },
         "total": {
           "confirmed": 339,
-          "recovered": 224
+          "recovered": 226
         }
       },
       "Kollam": {
         "delta": {
           "confirmed": 5,
-          "recovered": 2
+          "recovered": 3
         },
         "total": {
           "confirmed": 129,
           "deceased": 1,
-          "recovered": 30
+          "recovered": 33
         }
       },
       "Kottayam": {
@@ -4329,12 +4329,12 @@
       "Kozhikode": {
         "delta": {
           "confirmed": 7,
-          "recovered": 4
+          "recovered": 3
         },
         "total": {
           "confirmed": 123,
           "deceased": 1,
-          "recovered": 56
+          "recovered": 54
         }
       },
       "Malappuram": {
@@ -4358,7 +4358,7 @@
           "confirmed": 246,
           "deceased": 1,
           "migrated": 1,
-          "recovered": 67
+          "recovered": 69
         }
       },
       "Pathanamthitta": {
@@ -4385,6 +4385,14 @@
           "recovered": 44
         }
       },
+      "Thiruvanathapuram": {
+        "delta": {
+          "recovered": -1
+        },
+        "total": {
+          "recovered": -1
+        }
+      },
       "Thrissur": {
         "delta": {
           "confirmed": 6,
@@ -4396,17 +4404,18 @@
         "total": {
           "confirmed": 170,
           "deceased": 2,
-          "recovered": 44
+          "recovered": 43
         }
       },
       "Wayanad": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 1
         },
         "total": {
           "confirmed": 50,
           "deceased": 1,
-          "recovered": 25
+          "recovered": 26
         }
       }
     },

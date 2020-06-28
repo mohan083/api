@@ -4342,7 +4342,7 @@
         "total": {
           "confirmed": 134,
           "deceased": 1,
-          "recovered": 53
+          "recovered": 51
         }
       },
       "Idukki": {
@@ -4359,7 +4359,7 @@
         "total": {
           "confirmed": 320,
           "deceased": 4,
-          "recovered": 200
+          "recovered": 198
         }
       },
       "Kasaragod": {
@@ -4372,7 +4372,7 @@
         },
         "total": {
           "confirmed": 373,
-          "recovered": 262
+          "recovered": 264
         }
       },
       "Kollam": {
@@ -4383,7 +4383,7 @@
         "total": {
           "confirmed": 154,
           "deceased": 1,
-          "recovered": 57
+          "recovered": 60
         }
       },
       "Kottayam": {
@@ -4407,7 +4407,7 @@
         "total": {
           "confirmed": 168,
           "deceased": 1,
-          "recovered": 73
+          "recovered": 71
         }
       },
       "Malappuram": {
@@ -4433,7 +4433,7 @@
           "confirmed": 297,
           "deceased": 1,
           "migrated": 1,
-          "recovered": 144
+          "recovered": 146
         }
       },
       "Pathanamthitta": {
@@ -4460,6 +4460,11 @@
           "recovered": 87
         }
       },
+      "Thiruvanathapuram": {
+        "total": {
+          "recovered": -1
+        }
+      },
       "Thrissur": {
         "delta": {
           "confirmed": 7,
@@ -4471,7 +4476,7 @@
         "total": {
           "confirmed": 239,
           "deceased": 3,
-          "recovered": 74
+          "recovered": 73
         }
       },
       "Wayanad": {
@@ -4481,7 +4486,7 @@
         "total": {
           "confirmed": 57,
           "deceased": 1,
-          "recovered": 38
+          "recovered": 39
         }
       }
     },

@@ -1,9 +1,5 @@
 [
   {
-    "update": "136 recoveries in Odisha\n8 recoveries in Mizoram\n",
-    "timestamp": 1593259683
-  },
-  {
     "update": "1 new case, 261 recoveries and 2 deaths in Bihar\n",
     "timestamp": 1593260208
   },
@@ -198,5 +194,9 @@
   {
     "update": "572 new cases, 404 recoveries and 10 deaths in West Bengal\n",
     "timestamp": 1593351251
+  },
+  {
+    "update": "160 new cases, 206 recoveries and 5 deaths in Punjab\n",
+    "timestamp": 1593351847
   }
 ]

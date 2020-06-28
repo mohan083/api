@@ -4328,7 +4328,7 @@
         "total": {
           "confirmed": 79,
           "deceased": 1,
-          "recovered": 38
+          "recovered": 36
         }
       },
       "Idukki": {
@@ -4339,26 +4339,25 @@
       },
       "Kannur": {
         "delta": {
-          "confirmed": 4,
-          "recovered": 2
+          "confirmed": 4
         },
         "total": {
           "confirmed": 266,
           "deceased": 2,
-          "recovered": 147
+          "recovered": 145
         }
       },
       "Kasaragod": {
         "delta": {
           "confirmed": 8,
-          "recovered": 5
+          "recovered": 7
         },
         "meta": {
           "population": 1307375
         },
         "total": {
           "confirmed": 337,
-          "recovered": 224
+          "recovered": 226
         }
       },
       "Kollam": {
@@ -4368,7 +4367,7 @@
         "total": {
           "confirmed": 124,
           "deceased": 1,
-          "recovered": 28
+          "recovered": 30
         }
       },
       "Kottayam": {
@@ -4391,7 +4390,7 @@
         "total": {
           "confirmed": 116,
           "deceased": 1,
-          "recovered": 52
+          "recovered": 51
         }
       },
       "Malappuram": {
@@ -4416,7 +4415,7 @@
           "confirmed": 232,
           "deceased": 1,
           "migrated": 1,
-          "recovered": 67
+          "recovered": 69
         }
       },
       "Pathanamthitta": {
@@ -4452,7 +4451,7 @@
         "total": {
           "confirmed": 164,
           "deceased": 2,
-          "recovered": 40
+          "recovered": 39
         }
       },
       "Wayanad": {

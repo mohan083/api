@@ -11593,11 +11593,11 @@
 			"statecode": "TR"
 		},
 		{
-			"active": "39",
-			"confirmed": "137",
+			"active": "40",
+			"confirmed": "138",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Gomati",
@@ -11611,11 +11611,11 @@
 			"statecode": "TR"
 		},
 		{
-			"active": "31",
-			"confirmed": "61",
+			"active": "34",
+			"confirmed": "64",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "3",
+			"deltaconfirmed": "3",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Khowai",
@@ -11647,11 +11647,11 @@
 			"statecode": "TR"
 		},
 		{
-			"active": "44",
-			"confirmed": "552",
+			"active": "52",
+			"confirmed": "560",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "8",
+			"deltaconfirmed": "8",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Sipahijala",
@@ -13789,9 +13789,9 @@
 			"statecode": "AR"
 		},
 		{
-			"active": "-1267",
+			"active": "-1268",
 			"confirmed": "2914",
-			"deceased": "5",
+			"deceased": "6",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",

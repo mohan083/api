@@ -194,7 +194,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 25/06/2020,Arunachal Pradesh,21274,Samples Collected,172,19298,1441,,,,,,,,,,,,,,https://twitter.com/DirectorateofHS/status/1276213858491789312?s=20,,,,0.81%,14.14,14145,124,1504000
 26/06/2020,Arunachal Pradesh,21890,Samples Collected,174,19877,1415,,,,,,,,,,,,,,https://twitter.com/DirectorateofHS/status/1276551051789733889?s=20,,,,0.79%,14.55,14555,126,1504000
 27/06/2020,Arunachal Pradesh,22623,Samples Collected,177,20209,1768,,,,,,,,,,,,,,https://twitter.com/DirectorateofHS/status/1276901007339880458?s=20,,,,,,,,
-28/06/2020,Arunachal Pradesh,23011,Samples Collected,182,21071,1672,,,,,,,,,,,,,,https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20,,,,,,,,
+28/06/2020,Arunachal Pradesh,23011,Samples Collected,182,20673,1672,,,,,,,,,,,,,,https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20,,,,,,,,
 02/04/2020,Assam,962,Tested,16,819,,,,,,,,,,,,,,,https://twitter.com/nhm_assam/status/1245742375319691264/photo/1,,,,1.66%,0.03,28,60,34293000
 10/04/2020,Assam,2863,Tested,29,2685,,,,,,,,3212,440,240,,,,9245,https://t.me/indiacovid/2003?single,,,,1.01%,0.08,83,99,34293000
 11/04/2020,Assam,3011,Tested,29,2842,,,,,,,,3212,440,240,,,,9514,https://t.me/indiacovid/2075?single,,,,0.96%,0.09,88,104,34293000
@@ -499,6 +499,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 25/06/2020,Chhattisgarh,142090,Tested,2456,,,,,,,,,5515,,922,,,,,https://twitter.com/HealthCgGov/status/1276180813780930562?s=20,,,,,,,,
 26/06/2020,Chhattisgarh,144828,Tested,2545,,,,,,,,,5515,,922,,,,,https://twitter.com/HealthCgGov/status/1276540681649942528?s=20,,,,,,,,
 27/06/2020,Chhattisgarh,152874,Tested,2602,,,,,,,,,5515,,922,,,,,https://twitter.com/HealthCgGov/status/1276893793002782727?s=20,,,,,,,,
+28/06/2020,Chhattisgarh,154526,Tested,2694,,,,,,,,,5515,,922,,,,,https://twitter.com/HealthCgGov/status/1277278566082699266?s=20,,,,,,,,
 09/04/2020,Dadra and Nagar Haveli and Daman and Diu,80,Tested,0,80,,,,,,,,,,,,,,,https://twitter.com/DnhPublicity/status/1247952828519178241,,https://twitter.com/DnhPublicity/status/1248162771897692160,,0.00%,0.08,83,,959000
 10/04/2020,Dadra and Nagar Haveli and Daman and Diu,130,Tested,0,130,,,,,,,,,,,,,,,https://twitter.com/DnhPublicity/status/1248309707397156864,,,,0.00%,0.14,136,777,959000
 11/04/2020,Dadra and Nagar Haveli and Daman and Diu,211,Tested,0,211,,,,,,,,,,,,,,,https://twitter.com/DnhPublicity/status/1249023214333743104,,,,0.00%,0.22,220,,959000
@@ -963,6 +964,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 25/06/2020,Himachal Pradesh,71078,Tested,839,69917,322,55539,19390,Facility,36149,,,,,,,,,,https://twitter.com/nhm_hp/status/1276186995199324160?s=20,,,,,,,,
 26/06/2020,Himachal Pradesh,72688,Tested,864,71426,398,56147,19402,Facility,36745,,,,,,,,,,https://twitter.com/nhm_hp/status/1276549437666385926?s=20,,,,,,,,
 27/06/2020,Himachal Pradesh,74764,Tested,894,73722,148,56638,18842,Facility,37796,,,,,,,,,,https://twitter.com/nhm_hp/status/1276908964265881600?s=20,,https://t.me/Covid19india_Auxiliary_Test_Data/691,,,,,,
+28/06/2020,Himachal Pradesh,,,,,,,,,,,,,,,,,,,,,,,,,,,
 05/04/2020,Jammu and Kashmir,1551,Reports Received,106,1429,16,,,,,,,,,,,,,,https://twitter.com/diprjk/status/1246764514135040000,,,,6.83%,0.12,117,15,13203000
 10/04/2020,Jammu and Kashmir,2961,Reports Received,207,2754,,,415,Hospital,,,,,,,,,,,https://twitter.com/diprjk/status/1248598584380887042/photo/1,,,,6.99%,0.22,224,14,13203000
 11/04/2020,Jammu and Kashmir,3206,Reports Received,224,2982,,,422,Hospital,,,,,,,,,,,https://twitter.com/diprjk/status/1248973710284820486?s=19,,,,6.99%,0.24,243,14,13203000

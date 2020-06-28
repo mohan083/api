@@ -1070,9 +1070,9 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -1267,
+        "active": -1268,
         "confirmed": 2914,
-        "deceased": 5,
+        "deceased": 6,
         "recovered": 4173,
         "delta": {
           "confirmed": 0,
@@ -8719,12 +8719,12 @@
       {
         "district": "Gomati",
         "notes": "",
-        "active": 39,
-        "confirmed": 137,
+        "active": 40,
+        "confirmed": 138,
         "deceased": 0,
         "recovered": 98,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -8732,12 +8732,12 @@
       {
         "district": "Khowai",
         "notes": "",
-        "active": 31,
-        "confirmed": 61,
+        "active": 34,
+        "confirmed": 64,
         "deceased": 0,
         "recovered": 30,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -8758,12 +8758,12 @@
       {
         "district": "Sipahijala",
         "notes": "",
-        "active": 44,
-        "confirmed": 552,
+        "active": 52,
+        "confirmed": 560,
         "deceased": 0,
         "recovered": 508,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }

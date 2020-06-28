@@ -929,7 +929,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T20:20:25+05:30",
+      "last_updated": "2020-06-28T20:25:19+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1883,7 +1883,8 @@
     "delta": {
       "confirmed": 2889,
       "deceased": 65,
-      "recovered": 3306
+      "recovered": 3306,
+      "tested": 20080
     },
     "districts": {
       "Central Delhi": {
@@ -1967,15 +1968,14 @@
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/06-27.pdf"
+        "last_updated": "2020-06-28"
       }
     },
     "total": {
       "confirmed": 83077,
       "deceased": 2623,
       "recovered": 52607,
-      "tested": 478336
+      "tested": 498416
     }
   },
   "DN": {
@@ -2073,7 +2073,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T20:20:30+05:30",
+      "last_updated": "2020-06-28T20:25:21+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -2088,6 +2088,9 @@
     }
   },
   "GJ": {
+    "delta": {
+      "tested": 6158
+    },
     "districts": {
       "Ahmedabad": {
         "meta": {
@@ -2572,15 +2575,15 @@
       "last_updated": "2020-06-28T08:53:15+05:30",
       "population": 67936000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://twitter.com/PIBAhmedabad/status/1276893503428136964?s=20"
+        "last_updated": "2020-06-28",
+        "source": "https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=20"
       }
     },
     "total": {
       "confirmed": 30773,
       "deceased": 1790,
       "recovered": 22417,
-      "tested": 357148
+      "tested": 363306
     }
   },
   "HP": {
@@ -3956,7 +3959,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T20:20:22+05:30",
+      "last_updated": "2020-06-28T20:25:17+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "population": 65798000,
       "tested": {
@@ -4744,7 +4747,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T20:24:18+05:30",
+      "last_updated": "2020-06-28T20:35:15+05:30",
       "notes": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -5799,7 +5802,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T20:20:19+05:30",
+      "last_updated": "2020-06-28T20:25:16+05:30",
       "population": 82232000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -8644,7 +8647,7 @@
       "recovered": 10505
     },
     "meta": {
-      "last_updated": "2020-06-28T20:24:15+05:30",
+      "last_updated": "2020-06-28T20:35:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -9583,7 +9586,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T20:20:16+05:30",
+      "last_updated": "2020-06-28T20:25:14+05:30",
       "population": 224979000,
       "tested": {
         "last_updated": "2020-06-27",

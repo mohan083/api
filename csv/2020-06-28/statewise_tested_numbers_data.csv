@@ -640,8 +640,8 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 24/06/2020,Delhi,420707,Tested,70390,,,,,,,,,,,,,,,,https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/06-24.pdf,,,,16.73%,21.23,21233,,19814000
 25/06/2020,Delhi,438012,Tested,73780,,,,,,,,,13411,,,,,,1031,https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/06-25.pdf,,https://delhifightscorona.in/,,,,,,
 26/06/2020,Delhi,459156,Tested,77240,,,,,,,,,13411,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/685,,https://delhifightscorona.in/,,,,,,
-27/06/2020,Delhi,478336,Tested,80188,,,,,,,,,,,,,,,,https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/06-27.pdf,,https://delhifightscorona.in/,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27/06/2020,Delhi,478336,Tested,80188,,,,,,,,,13411,,,,,,,https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/06-27.pdf,,https://delhifightscorona.in/,,,,,,
+28/06/2020,Delhi,498416,Tested,83077,,,,,,,,,13411,,,,,,,,,https://delhifightscorona.in/,,,,,,
 02/04/2020,Goa,220,Samples Sent,5,197,18,,,,,,,,,,,,,,https://www.goa.gov.in/wp-content/uploads/2020/04/Media-Bulletin-02.04.2020.pdf,,,,2.27%,0.1428571429,142.8571429,44,1540000
 09/04/2020,Goa,344,Samples Sent,7,,,,,,,,,,,,,,,,https://twitter.com/dip_goa/status/1248237654258352129?s=09,,,,2.03%,0.22,223,49,1540000
 10/04/2020,Goa,354,Samples Sent,7,,,,,,,,,,,,,,,,https://twitter.com/DHS_Goa/status/1248609175241764872/photo/1,,,,1.98%,0.23,230,51,1540000
@@ -797,6 +797,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 25/06/2020,Gujarat,345278,Tested,29578,,,,229768,All Included,,,,,,,,,,,https://twitter.com/PIBAhmedabad/status/1276146625006702592,,,,,,,,
 26/06/2020,Gujarat,351179,Tested,30158,321021,,,234424,All Included,,,,,,,,,,,https://twitter.com/PIBAhmedabad/status/1276512497063858178?s=20,,https://gujcovid19.gujarat.gov.in/,,,,,,
 27/06/2020,Gujarat,357148,Tested,30773,,,,235954,All Included,,,,,,,,,,,https://twitter.com/PIBAhmedabad/status/1276893503428136964?s=20,,https://gujcovid19.gujarat.gov.in/,,,,,,
+28/06/2020,Gujarat,363306,Tested,31397,,,,238131,All Included,,,,,,,,,,,https://twitter.com/PIBAhmedabad/status/1277237041949036547?s=20,,,,,,,,
 03/04/2020,Haryana,1325,Samples Sent,44,938,343,,,,,,,,,,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/BULLETIN%20EVENING03042020.pdf,,,,3.32%,0.05,46,30,28672000
 07/04/2020,Haryana,2520,Samples Sent,141,1821,558,,,,,,,,,,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/bulletin%2008042020Morning.pdf,,,,5.60%,0.09,88,18,28672000
 08/04/2020,Haryana,2650,Samples Sent,153,1885,612,,,,,,,8649,,,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/bulletin%2008042020%20evening.pdf,,,,5.77%,0.09,92,17,28672000
@@ -880,6 +881,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 25/06/2020,Haryana,236898,Samples Sent,12463,219064,5371,,,,,,,26125,1501,788,,,,,"http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Media%20Bulletin%20on%20Covid%2019,%20Dated%2025-06-2020%20Evening.pdf",,http://www.nhmharyana.gov.in/,,,,,,
 26/06/2020,Haryana,241941,Samples Sent,12884,223797,5260,,,,,,,,,,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2026-06-20%20Evening.pdf,,,,,,,,
 27/06/2020,Haryana,247139,Samples Sent,13427,228275,5437,102242,44718,All Included,57524,56,15,34876,2103,1051,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2027-06-20%20Evening.pdf,,https://t.me/Covid19india_Auxiliary_Test_Data/692,,,,,,
+28/06/2020,Haryana,252356,Samples Sent,13829,233567,4960,,,,,,,,,,,,,,,,http://www.nhmharyana.gov.in/,,,,,,
 10/04/2020,Himachal Pradesh,900,Tested,30,870,,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1248648731374714880,,,,3.33%,0.12,123,30,7300000
 11/04/2020,Himachal Pradesh,900,Tested,30,870,0,,,,,,,,,,,,,,http://www.nrhmhp.gov.in/,,,,3.33%,0.12,123,30,7300000
 12/04/2020,Himachal Pradesh,1113,Tested,32,944,137,,,,,,,,,,,,,,https://twitter.com/nhm_hp/status/1249299563308974085?s=09,,,,2.88%,0.15,152,35,7300000

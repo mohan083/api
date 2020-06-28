@@ -4011,7 +4011,8 @@
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
-        "last_updated": "2020-06-28"
+        "last_updated": "2020-06-28",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-28-1.pdf"
       }
     },
     "total": {
@@ -4475,7 +4476,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T19:42:15+05:30",
+      "last_updated": "2020-06-28T19:45:16+05:30",
       "notes": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -4726,7 +4727,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T19:43:15+05:30",
+      "last_updated": "2020-06-28T19:52:15+05:30",
       "population": 3103000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -8238,7 +8239,7 @@
       "recovered": 9247
     },
     "meta": {
-      "last_updated": "2020-06-28T19:43:13+05:30",
+      "last_updated": "2020-06-28T19:52:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",

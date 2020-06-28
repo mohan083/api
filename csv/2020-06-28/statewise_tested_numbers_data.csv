@@ -259,8 +259,8 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 24/06/2020,Assam,336091,Tested,6282,,,,38936,Institutional,,,,,,,,,,104,https://twitter.com/nhm_assam/status/1275830322706305024?s=20,,,,1.87%,9.80,9801,54,34293000
 25/06/2020,Assam,351753,Tested,6646,,,,,,,,,,,,,,,104,https://twitter.com/himantabiswa/status/1276176117481656321?s=20,,,,,,,,
 26/06/2020,Assam,362713,Tested,6646,,,,,,,,,,,,,,,104,https://twitter.com/himantabiswa/status/1276546006226579457?s=20,,,,,,,,
-27/06/2020,Assam,374519,Tested,6919,,,,28574,Institutional,,,,,,,,,,104,https://twitter.com/nhm_assam/status/1276899235380723717?s=20,,,,,,,,
-28/06/2020,Assam,,Tested,,,,,,,,,,,,,,,,,,,,,,,,,
+27/06/2020,Assam,374519,Tested,6919,,,,28574,Institutional,,,,,,,,,,104,https://twitter.com/nhm_assam/status/1276923580446584834?s=20,,,,,,,,
+28/06/2020,Assam,385299,Tested,7165,,,,26534,Institutional,,,,,,,,,,104,https://twitter.com/nhm_assam/status/1277257272826007552?s=20,,,,,,,,
 05/04/2020,Bihar,3037,Tested,32,2299,706,,,,,,,,,,,,,,https://twitter.com/sanjayjavin/status/1246667952054665216,,,,1.05%,0.03,25,95,119520000
 08/04/2020,Bihar,4596,Tested,38,,465,,,,,,,,,,,,,,https://twitter.com/sanjayjavin/status/1247762894063677440,,,,0.83%,0.04,38,121,119520000
 09/04/2020,Bihar,4991,Tested,43,,394,,,,,,,,,,,,,,https://twitter.com/BiharHealthDept/status/1248176830856626176/photo/1,,,,0.86%,0.04,42,116,119520000
@@ -717,6 +717,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 25/06/2020,Goa,58584,Samples Sent,995,,,,11046,Facility,,,,,,,,,,,https://twitter.com/DHS_Goa/status/1276174045076000768?s=20,,,,,,,,
 26/06/2020,Goa,60350,Samples Sent,1039,,,,11086,Facility,,,,,,,,,,,https://twitter.com/DHS_Goa/status/1276523629358886915?s=20,,,,,,,,
 27/06/2020,Goa,61687,Samples Sent,1128,,,,11121,Facility,,,,,,,,,,,https://twitter.com/DHS_Goa/status/1276894489412395009?s=20,,,,,,,,
+28/06/2020,Goa,62945,Samples Sent,1198,,,,11139,Facility,,,,,,,,,,,,,,,,,,,
 08/04/2020,Gujarat,4224,Tested,186,3905,133,,12299,All Included,,,,,,1761,,,,,https://t.me/indiacovid/1850?single,,,,4.40%,0.06,62,23,67936000
 10/04/2020,Gujarat,7718,Tested,378,7237,103,,,All Included,,,,,,,,,,,https://t.me/indiacovid/1994?single,,,,4.90%,0.11,114,20,67936000
 11/04/2020,Gujarat,9763,Tested,468,8888,407,,12042,All Included,,,,,,,,,,,https://gujcovid19.gujarat.gov.in/,,,,4.79%,0.14,144,21,67936000
@@ -1608,6 +1609,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 25/06/2020,Meghalaya,17258,Tested,46,,,,,,,,,,29,20,256379,206086,,,https://t.me/Covid19india_Auxiliary_Test_Data/660,,https://corona.meghalayagov.in/,,0.27%,5.35,5353,375,3224000
 26/06/2020,Meghalaya,17784,Tested,48,,,,,,,,,,29,20,256379,206086,,,https://t.me/Covid19india_Auxiliary_Test_Data/673,,https://corona.meghalayagov.in/,,,,,,
 27/06/2020,Meghalaya,18037,Tested,48,17741,250,,,,,,,,29,20,256379,206086,,,https://t.me/Covid19india_Auxiliary_Test_Data/702,,http://meghalayaonline.gov.in,,,,,,
+28/06/2020,Meghalaya,,,,,,,,,,,,,,,,,,,,,,,,,,,
 06/04/2020,Mizoram,58,Samples Collected,1,0,0,,,,,,,,,,,,,,https://health.mizoram.gov.in/post/covid-19-bulletin-date-642020,,,,1.72%,0.05,49,58,1192000
 07/04/2020,Mizoram,58,Samples Collected,1,0,0,,,,,,,,,,,,,,https://health.mizoram.gov.in/post/covid-19-bulletin-date-742020,,,,1.72%,0.05,49,58,1192000
 08/04/2020,Mizoram,74,Samples Collected,1,,0,,,,,,,,,,,,,,https://health.mizoram.gov.in/post/covid-19-bulletin-date-842020,,,,1.35%,0.06,62,74,1192000

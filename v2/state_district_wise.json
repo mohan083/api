@@ -298,13 +298,13 @@
         "district": "Changlang",
         "notes": "",
         "active": 52,
-        "confirmed": 77,
+        "confirmed": 78,
         "deceased": 0,
-        "recovered": 25,
+        "recovered": 26,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -323,14 +323,14 @@
       {
         "district": "East Siang",
         "notes": "",
-        "active": 5,
+        "active": 0,
         "confirmed": 10,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -453,12 +453,12 @@
       {
         "district": "Namsai",
         "notes": "",
-        "active": 7,
-        "confirmed": 10,
+        "active": 8,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -479,12 +479,12 @@
       {
         "district": "Papum Pare",
         "notes": "",
-        "active": 35,
-        "confirmed": 43,
+        "active": 38,
+        "confirmed": 46,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }

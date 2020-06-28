@@ -32,7 +32,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T20:53:21+05:30",
+      "last_updated": "2020-06-28T20:57:16+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-06-26",
@@ -331,6 +331,10 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 5,
+      "recovered": 6
+    },
     "districts": {
       "Anjaw": {
         "meta": {
@@ -356,6 +360,10 @@
         }
       },
       "Changlang": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-27",
@@ -363,8 +371,8 @@
           }
         },
         "total": {
-          "confirmed": 77,
-          "recovered": 25,
+          "confirmed": 78,
+          "recovered": 26,
           "tested": 3911
         }
       },
@@ -392,6 +400,9 @@
         }
       },
       "East Siang": {
+        "delta": {
+          "recovered": 5
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-27",
@@ -400,7 +411,7 @@
         },
         "total": {
           "confirmed": 10,
-          "recovered": 5,
+          "recovered": 10,
           "tested": 1901
         }
       },
@@ -516,6 +527,9 @@
         }
       },
       "Namsai": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-27",
@@ -523,7 +537,7 @@
           }
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 11,
           "recovered": 3,
           "tested": 1392
         }
@@ -542,6 +556,9 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-27",
@@ -549,7 +566,7 @@
           }
         },
         "total": {
-          "confirmed": 43,
+          "confirmed": 46,
           "recovered": 8,
           "tested": 453
         }
@@ -657,7 +674,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T21:26:19+05:30",
+      "last_updated": "2020-06-28T21:03:17+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -665,15 +682,16 @@
       }
     },
     "total": {
-      "confirmed": 177,
+      "confirmed": 182,
       "deceased": 1,
-      "recovered": 54,
+      "recovered": 60,
       "tested": 22623
     }
   },
   "AS": {
     "delta": {
-      "recovered": 274
+      "recovered": 274,
+      "tested": 10780
     },
     "districts": {
       "Airport Quarantine": {
@@ -933,8 +951,8 @@
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://twitter.com/nhm_assam/status/1276899235380723717?s=20"
+        "last_updated": "2020-06-28",
+        "source": "https://twitter.com/nhm_assam/status/1277257272826007552?s=20"
       }
     },
     "total": {
@@ -942,7 +960,7 @@
       "deceased": 10,
       "migrated": 3,
       "recovered": 5089,
-      "tested": 374519
+      "tested": 385299
     }
   },
   "BR": {
@@ -3443,7 +3461,8 @@
       "last_updated": "2020-06-28T20:53:16+05:30",
       "population": 13203000,
       "tested": {
-        "last_updated": "2020-06-28"
+        "last_updated": "2020-06-28",
+        "source": "https://twitter.com/diprjk/status/1277245162230411265?s=20"
       }
     },
     "total": {
@@ -8708,12 +8727,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 17320,
+      "confirmed": 17325,
       "deceased": 356,
-      "recovered": 10597
+      "recovered": 10603
     },
     "meta": {
-      "last_updated": "2020-06-28T20:53:13+05:30",
+      "last_updated": "2020-06-28T21:03:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -8721,10 +8740,10 @@
       }
     },
     "total": {
-      "confirmed": 546907,
+      "confirmed": 546912,
       "deceased": 16459,
       "migrated": 56,
-      "recovered": 320743,
+      "recovered": 320749,
       "tested": 8227802
     }
   },

@@ -11170,7 +11170,7 @@
 			"_xrpi": "https://t.me/Covid19india_Auxiliary_Test_Data/375",
 			"district": "Surat",
 			"population": "6081322",
-			"rank": "16",
+			"rank": "17",
 			"state": "Gujarat",
 			"testedtags": "Tested"
 		},
@@ -11708,7 +11708,7 @@
 			"_8e24p": "https://t.me/Covid19india_Auxiliary_Test_Data/551",
 			"district": "Faridabad",
 			"population": "1809733",
-			"rank": "20",
+			"rank": "21",
 			"state": "Haryana",
 			"testedtags": ""
 		},
@@ -11778,7 +11778,7 @@
 			"_9n0bt": "27847",
 			"district": "Gurugram",
 			"population": "902112",
-			"rank": "11",
+			"rank": "12",
 			"state": "Haryana",
 			"testedtags": "Sample Sent"
 		},
@@ -15787,7 +15787,7 @@
 			"_9y8v5": "https://epaper.naidunia.com/mepaper/28-jun-2020-74-indore-edition-indore-page-11.html",
 			"district": "Bhopal",
 			"population": "2371061",
-			"rank": "24",
+			"rank": "25",
 			"state": "Madhya Pradesh",
 			"testedtags": ""
 		},
@@ -16317,7 +16317,7 @@
 			"_xrpi": "https://twitter.com/tarun28988/status/1270048359756304386?s=09",
 			"district": "Indore",
 			"population": "3276697",
-			"rank": "15",
+			"rank": "16",
 			"state": "Madhya Pradesh",
 			"testedtags": "Reports Received"
 		},
@@ -17223,7 +17223,7 @@
 			"_jxug1": "https://twitter.com/astikkp/status/1259494549610790912",
 			"district": "Aurangabad",
 			"population": "3701282",
-			"rank": "14",
+			"rank": "15",
 			"state": "Maharashtra",
 			"testedtags": "People Tested"
 		},
@@ -17320,7 +17320,7 @@
 			"_9fzho": "https://twitter.com/InfoJalgaon/status/1276564508639547393/photo/1",
 			"district": "Jalgaon",
 			"population": "4229917",
-			"rank": "23",
+			"rank": "24",
 			"state": "Maharashtra",
 			"testedtags": ""
 		},
@@ -17664,7 +17664,7 @@
 			"_xrpi": "https://twitter.com/InfoNashik/status/1269981469809803266?s=19",
 			"district": "Nashik",
 			"population": "6107187",
-			"rank": "17",
+			"rank": "18",
 			"state": "Maharashtra",
 			"testedtags": "Reports Received"
 		},
@@ -17681,7 +17681,7 @@
 			"_9y8v5": "http://epaper.lokmat.com/sub-editions/Hello%20Thane/-1/4",
 			"district": "Palghar",
 			"population": "68931",
-			"rank": "13",
+			"rank": "14",
 			"state": "Maharashtra",
 			"testedtags": ""
 		},
@@ -17786,7 +17786,7 @@
 			"_hfy1t": "590",
 			"district": "Raigad",
 			"population": "2634200",
-			"rank": "19",
+			"rank": "20",
 			"state": "Maharashtra",
 			"testedtags": "Tested"
 		},
@@ -21174,7 +21174,7 @@
 			"_xrpi": "https://t.me/Covid19india_Auxiliary_Test_Data/372",
 			"district": "Jaipur",
 			"population": "6626178",
-			"rank": "21",
+			"rank": "22",
 			"state": "Rajasthan",
 			"testedtags": "Reports Received"
 		},
@@ -21881,7 +21881,7 @@
 			"_xrpi": "https://t.me/Covid19india_Auxiliary_Test_Data/372",
 			"district": "Jodhpur",
 			"population": "3687165",
-			"rank": "26",
+			"rank": "27",
 			"state": "Rajasthan",
 			"testedtags": "Reports Received"
 		},
@@ -23741,7 +23741,7 @@
 			"_qqvh": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-07.06.2020.pdf",
 			"district": "Thiruvallur",
 			"population": "3728104",
-			"rank": "18",
+			"rank": "19",
 			"state": "Tamil Nadu",
 			"testedtags": "Samples Tested"
 		},
@@ -23917,7 +23917,7 @@
 			"_qqvh": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-07.06.2020.pdf",
 			"district": "Chengalpattu",
 			"population": "2560000",
-			"rank": "12",
+			"rank": "13",
 			"state": "Tamil Nadu",
 			"testedtags": "Samples Tested"
 		},
@@ -27389,7 +27389,7 @@
 		{
 			"district": "Howrah",
 			"population": "4850029",
-			"rank": "27",
+			"rank": "",
 			"state": "West Bengal",
 			"testedtags": ""
 		},
@@ -27452,7 +27452,7 @@
 		{
 			"district": "North 24 Parganas",
 			"population": "10009781",
-			"rank": "25",
+			"rank": "26",
 			"state": "West Bengal",
 			"testedtags": ""
 		},

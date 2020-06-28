@@ -2988,7 +2988,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T19:23:16+05:30",
+      "last_updated": "2020-06-28T19:34:18+05:30",
       "population": 28672000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -4085,6 +4085,9 @@
   },
   "MH": {
     "delta": {
+      "confirmed": 5493,
+      "deceased": 156,
+      "recovered": 2330,
       "tested": 26511
     },
     "districts": {
@@ -4434,6 +4437,18 @@
           "tested": 96093
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 5493,
+          "deceased": 156,
+          "recovered": 2330
+        },
+        "total": {
+          "confirmed": 5493,
+          "deceased": 156,
+          "recovered": 2330
+        }
+      },
       "Wardha": {
         "total": {
           "confirmed": 16,
@@ -4460,7 +4475,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-27T20:36:15+05:30",
+      "last_updated": "2020-06-28T19:37:21+05:30",
       "notes": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -4469,10 +4484,10 @@
       }
     },
     "total": {
-      "confirmed": 159133,
-      "deceased": 7273,
+      "confirmed": 164626,
+      "deceased": 7429,
       "migrated": 15,
-      "recovered": 84245,
+      "recovered": 86575,
       "tested": 926934
     }
   },
@@ -8134,6 +8149,9 @@
         }
       },
       "Unokoti": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-27",
@@ -8141,12 +8159,15 @@
           }
         },
         "total": {
-          "confirmed": 68,
+          "confirmed": 69,
           "recovered": 59,
           "tested": 2549
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": -1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-27",
@@ -8154,7 +8175,7 @@
           }
         },
         "total": {
-          "confirmed": 153,
+          "confirmed": 152,
           "deceased": 1,
           "recovered": 86,
           "tested": 16838
@@ -8178,12 +8199,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9442,
-      "deceased": 165,
-      "recovered": 6894
+      "confirmed": 14935,
+      "deceased": 321,
+      "recovered": 9224
     },
     "meta": {
-      "last_updated": "2020-06-28T19:23:13+05:30",
+      "last_updated": "2020-06-28T19:37:16+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -8191,10 +8212,10 @@
       }
     },
     "total": {
-      "confirmed": 539029,
-      "deceased": 16268,
+      "confirmed": 544522,
+      "deceased": 16424,
       "migrated": 56,
-      "recovered": 317040,
+      "recovered": 319370,
       "tested": 8227802
     }
   },
@@ -9098,7 +9119,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T19:23:22+05:30",
+      "last_updated": "2020-06-28T19:34:21+05:30",
       "notes": "18 Migrated cases reduced from Active count",
       "population": 11141000,
       "tested": {

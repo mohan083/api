@@ -15656,7 +15656,7 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 87731,,28/06/2020,,,,Rudraprayag,Uttarakhand,UT,7,Recovered,,,,,,,,,117096
 87732,,28/06/2020,,,,Tehri Garhwal,Uttarakhand,UT,32,Recovered,,,,,,,,,117097
 87733,,28/06/2020,,,,Udham Singh Nagar,Uttarakhand,UT,4,Recovered,,,,,,,,,117098
-87734,,28/06/2020,65,M,Haldwani,Nainital,Uttarakhand,UT,1,Deceased,,,,,,,,,117099
+87734,,28/06/2020,65,M,Haldwani,Nainital,Uttarakhand,UT,1,Deceased,,"As per information received, the deceased was admitted in Neelkanth Hospital Haldwani with gastric complaints. Death summary is awaited",,,,,,,117099
 87735,,28/06/2020,,,,Gurugram,Haryana,HR,34,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2028-06-20%20Evening.pdf,,,,,,117100
 87736,,28/06/2020,,,,Faridabad,Haryana,HR,131,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2028-06-20%20Evening.pdf,,,,,,117101
 87737,,28/06/2020,,,,Sonipat,Haryana,HR,38,Hospitalized,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2028-06-20%20Evening.pdf,,,,,,117102
@@ -15685,21 +15685,21 @@ Entry_ID,State Patient Number,Date Announced,Age Bracket,Gender,Detected City,De
 87760,,28/06/2020,,,,Gurugram,Haryana,HR,1,Deceased,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2028-06-20%20Evening.pdf,,,,,,117125
 87761,,28/06/2020,,,,Faridabad,Haryana,HR,2,Deceased,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2028-06-20%20Evening.pdf,,,,,,117126
 87762,,28/06/2020,,,,Sonipat,Haryana,HR,2,Deceased,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2028-06-20%20Evening.pdf,,,,,,117127
-87763,,28/06/2020,,,,,,,,,,,,,,,,,117128
-87764,,28/06/2020,,,,,,,,,,,,,,,,,117129
-87765,,28/06/2020,,,,,,,,,,,,,,,,,117130
-87766,,28/06/2020,,,,,,,,,,,,,,,,,117131
-87767,,28/06/2020,,,,,,,,,,,,,,,,,117132
-87768,,28/06/2020,,,,,,,,,,,,,,,,,117133
-87769,,28/06/2020,,,,,,,,,,,,,,,,,117134
-87770,,28/06/2020,,,,,,,,,,,,,,,,,117135
-87771,,28/06/2020,,,,,,,,,,,,,,,,,117136
-87772,,28/06/2020,,,,,,,,,,,,,,,,,117137
-87773,,28/06/2020,,,,,,,,,,,,,,,,,117138
-87774,,28/06/2020,,,,,,,,,,,,,,,,,117139
-87775,,28/06/2020,,,,,,,,,,,,,,,,,117140
-87776,,28/06/2020,,,,,,,,,,,,,,,,,117141
-87777,,28/06/2020,,,,,,,,,,,,,,,,,117142
+87763,,28/06/2020,,,,West Tripura,Tripura,TR,-1,Hospitalized,,Recon with Dashboard,,,,,,,117128
+87764,,28/06/2020,,,,Unokoti,Tripura,TR,1,Hospitalized,,Recon with Dashboard,,,,,,,117129
+87765,,28/06/2020,,,,Churachandpur,,,10,Hospitalized,,,https://twitter.com/airnews_imphal/status/1277238727039782913?s=19,,,,,,117130
+87766,,28/06/2020,,,,Imphal East,,,2,Hospitalized,,,https://twitter.com/airnews_imphal/status/1277238727039782913?s=19,,,,,,117131
+87767,,28/06/2020,,,,Imphal West,,,1,Hospitalized,,,https://twitter.com/airnews_imphal/status/1277238727039782913?s=19,,,,,,117132
+87768,,28/06/2020,,,,Kakching,,,13,Hospitalized,,,https://twitter.com/airnews_imphal/status/1277238727039782913?s=19,,,,,,117133
+87769,,28/06/2020,,,,,,,21,Hospitalized,,,https://twitter.com/airnews_imphal/status/1277238727039782913?s=19,,,,,,117134
+87770,,28/06/2020,,,,,,,1,Hospitalized,,,https://twitter.com/airnews_imphal/status/1277238727039782913?s=19,,,,,,117135
+87771,,28/06/2020,,,,,,,14,Hospitalized,,,https://twitter.com/airnews_imphal/status/1277238727039782913?s=19,,,,,,117136
+87772,,28/06/2020,,,,,,,6,Hospitalized,,,https://twitter.com/airnews_imphal/status/1277238727039782913?s=19,,,,,,117137
+87773,,28/06/2020,,,,,,,25,Hospitalized,,,https://twitter.com/airnews_imphal/status/1277238727039782913?s=19,,,,,,117138
+87774,,28/06/2020,,,,,,,23,Recovered,,,https://twitter.com/airnews_imphal/status/1277238727039782913?s=19,,,,,,117139
+87775,,28/06/2020,,,,,Maharashtra,MH,5493,Hospitalized,,,https://t.me/indiacovid/8671,,,,,,117140
+87776,,28/06/2020,,,,,Maharashtra,MH,2330,Recovered,,,https://t.me/indiacovid/8671,,,,,,117141
+87777,,28/06/2020,,,,,Maharashtra,MH,156,Deceased,,,https://t.me/indiacovid/8671,,,,,,117142
 87778,,28/06/2020,,,,,,,,,,,,,,,,,117143
 87779,,28/06/2020,,,,,,,,,,,,,,,,,117144
 87780,,28/06/2020,,,,,,,,,,,,,,,,,117145

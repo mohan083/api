@@ -4827,12 +4827,13 @@
         "delta": {
           "confirmed": 2077,
           "deceased": 105,
-          "recovered": 2585
+          "recovered": 2585,
+          "tested": 15283
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-25",
-            "source": "https://twitter.com/mybmc/status/1276186228497375232/photo/1"
+            "last_updated": "2020-06-27",
+            "source": "https://twitter.com/mybmc/status/1276902509282340872/photo/1"
           }
         },
         "total": {
@@ -4840,7 +4841,7 @@
           "deceased": 4284,
           "migrated": 8,
           "recovered": 42329,
-          "tested": 304690
+          "tested": 319973
         }
       },
       "Nagpur": {

@@ -979,7 +979,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T22:35:15+05:30",
+      "last_updated": "2020-06-28T22:37:15+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -4815,8 +4815,8 @@
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-25",
-            "source": "https://twitter.com/mybmc/status/1276186228497375232/photo/1"
+            "last_updated": "2020-06-27",
+            "source": "https://twitter.com/mybmc/status/1276902509282340872/photo/1"
           }
         },
         "total": {
@@ -4824,7 +4824,7 @@
           "deceased": 4371,
           "migrated": 8,
           "recovered": 43154,
-          "tested": 304690
+          "tested": 319973
         }
       },
       "Nagpur": {
@@ -4873,20 +4873,21 @@
         "delta": {
           "confirmed": 199,
           "deceased": 8,
-          "recovered": 56
+          "recovered": 56,
+          "tested": 444
         },
         "meta": {
           "population": 6107187,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/InfoNashik/status/1276862643488165890/photo/1"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/InfoNashik/status/1277218278478188544/photo/1"
           }
         },
         "total": {
           "confirmed": 3902,
           "deceased": 217,
           "recovered": 2063,
-          "tested": 19961
+          "tested": 20405
         }
       },
       "Osmanabad": {
@@ -4944,19 +4945,20 @@
         "delta": {
           "confirmed": 1109,
           "deceased": 20,
-          "recovered": 373
+          "recovered": 373,
+          "tested": 1345
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/Info_Pune/status/1276930227050962945/photo/1"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/Info_Pune/status/1277278683133181953/photo/1"
           }
         },
         "total": {
           "confirmed": 20870,
           "deceased": 714,
           "recovered": 10708,
-          "tested": 130096
+          "tested": 131441
         }
       },
       "Raigad": {
@@ -6445,7 +6447,8 @@
     "delta": {
       "confirmed": 264,
       "deceased": 3,
-      "recovered": 137
+      "recovered": 137,
+      "tested": 5907
     },
     "districts": {
       "Angul": {
@@ -6919,15 +6922,14 @@
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/689"
+        "last_updated": "2020-06-28"
       }
     },
     "total": {
       "confirmed": 6614,
       "deceased": 28,
       "recovered": 4743,
-      "tested": 249902
+      "tested": 255809
     }
   },
   "PB": {
@@ -9116,7 +9118,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T22:35:18+05:30",
+      "last_updated": "2020-06-28T22:37:16+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -9137,7 +9139,7 @@
       "recovered": 11620
     },
     "meta": {
-      "last_updated": "2020-06-28T22:35:13+05:30",
+      "last_updated": "2020-06-28T22:37:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",

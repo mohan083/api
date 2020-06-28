@@ -3063,20 +3063,21 @@
         "delta": {
           "confirmed": 126,
           "deceased": 2,
-          "recovered": 202
+          "recovered": 202,
+          "tested": 1402
         },
         "meta": {
           "population": 902112,
           "tested": {
-            "last_updated": "2020-06-26",
-            "source": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2020/06/2020062664.pdf"
+            "last_updated": "2020-06-27",
+            "source": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2020/06/2020062831.pdf"
           }
         },
         "total": {
           "confirmed": 5070,
           "deceased": 83,
           "recovered": 3469,
-          "tested": 27847
+          "tested": 29249
         }
       },
       "Hisar": {

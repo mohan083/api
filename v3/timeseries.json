@@ -32719,10 +32719,13 @@
       }
     },
     "2020-06-28": {
+      "delta": {
+        "tested": 145
+      },
       "total": {
         "confirmed": 87,
         "recovered": 49,
-        "tested": 10219
+        "tested": 10364
       }
     }
   },

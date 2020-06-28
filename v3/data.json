@@ -7908,6 +7908,9 @@
     }
   },
   "SK": {
+    "delta": {
+      "tested": 145
+    },
     "districts": {
       "East Sikkim": {
         "total": {
@@ -7942,14 +7945,13 @@
       "last_updated": "2020-06-27T23:32:18+05:30",
       "population": 664000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/701"
+        "last_updated": "2020-06-28"
       }
     },
     "total": {
       "confirmed": 87,
       "recovered": 49,
-      "tested": 10219
+      "tested": 10364
     }
   },
   "TG": {

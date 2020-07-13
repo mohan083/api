@@ -34,5 +34,5 @@
 
 - [Covid-19 Tracker](https://github.com/Mehatab/covid-19) (by Mehatab Shaikh [@mehatab](https://github.com/Mehatab))
 
-- [COVID19Tracker](https://github.com/mohan083/COVID19Tracker) (by Mehatab Shaikh [@mohan083](https://github.com/mohan083))
+- [COVID19Tracker](https://github.com/mohan083/COVID19Tracker) (by Mohan [@mohan083](https://github.com/mohan083))
 
